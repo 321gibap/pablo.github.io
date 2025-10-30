@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Evening Ride",
+    "distance_m": 9295.8,
+    "start_date": "2025-10-27T18:40:39Z",
+    "type": "Ride",
+    "map": "yy|wD~mpsQlAv@z@z@f@n@jAz@p@Ln@@b@Bb@Hb@Ln@T`An@`@Hl@Tn@`@X\\JXH^L`BLd@Pd@Db@HNNNRHJR?HCH_C~FOl@@XDJNPd@RPBRJPBdBBVBb@Pp@DxAD\\An@LR@XHZBn@Kf@Cb@FVFL@rB@LDRLRDH?d@Kf@Dp@?xCPl@?fBRj@?tAHZALDFCF?h@H|@BNE\\@f@B`@CjCPzADZDj@?|ALx@Bt@CLQl@Cj@P^BJBV?j@H|@DTFp@LHCLMH]NEfCj@b@Rp@J|Br@pCr@nBj@xAh@J@jCt@tKrCtGjB~@RfBd@t@XVBfCl@VL\\Dt@PbAXRNVHv@Jz@TfA^jARx@TdBj@\\BZH^TLPPFv@Jn@N~@PHAHCJQd@gC@GCGn@qCBEB?BDKXFJRHp@NGIKACDYCWw@COB@@@UDBIAB@AH?F@FDECFG@EKYBSDKP@RFJ@RFJLh@V?HD@H?wEyF@DEOQIEBCHLPJBHEB@ELD^l@j@PDORCN?HDJrAn@Bp@@LFDBIVIXJV@ATWjB?NFX@ZOSG[_@QaAE_@SKCmA?u@GGGk@UYAMCUW_@Gw@WIOG?MMEIIE]Bc@Kq@Y_@KYCWMyAa@[Ou@SkAS]Ec@Og@K{B}@yAc@[EQ?kAU_@MKOQIo@KwA_@o@SQA[OeA_@_@KiCy@aAWoBc@y@Wa@G_@OOOSGYE]?c@KyAe@kCo@e@O_@K_@EsAe@k@O_Ci@GAOBKLGVKHYEKDSlAOh@q@|@SHw@?{BE_@Ko@EM?OD_B@_@C_@Ki@C_A@q@Cs@?mAS_@CMG}@QEEE?CBEGQAs@A]DS?KFOBg@Fy@IMIeAMiCKc@?mCMmACiAG}AEs@Gk@AcAOyBSsA?w@EaA?m@E}DKe@G]Km@GKMBQ~A_EV}@j@yAJk@@[Wg@[oA?qAAGi@g@KOQKaAi@a@Y[Oc@MYKq@e@g@Sw@Sa@Gs@Cc@Eu@Sk@]SSc@k@}@{@g@]u@a@OCMFQd@"
+  },
+  {
+    "name": "Evening Walk",
+    "distance_m": 5245.6,
+    "start_date": "2025-10-26T18:21:11Z",
+    "type": "Walk",
+    "map": "a}|wDpppsQBQFGDQJURSPu@DGBQHMFMBCLc@\\u@DUNWLIRs@Vk@AEFO@KNUTm@BWJKh@}A?_@MAIGAEBICODCBMFIBYFUICc@EGEg@_@QUAOEG[KOQJs@JI@OLQ`@{@@UFMEODSCMFGAEJMAIZm@d@sAEIMAi@WMAWW]Mg@UMOMIAIECCI@OAEAHDCADC?BAWK?CYWQCUOGKOCYQIAYOWWOGKASSKCo@c@UIc@YKASOQCMOQIGGQGA@OKGI[MMOE?]U[GQGGIYOKMSGUSYK]WOGQMIAWQYKMMYIMMYKU_@GGcB}@CGQEc@UGOII@MHMLa@BGR_A?ENQFENALFN@RGN?LDn@`@@AFQFi@DALU?GD?D[JYFUN[DQDCN]Rq@?IFU\\g@XGDIJEBQFI?ESBAJ?CJYAIJe@HYFK@IJMBQL_@HKJ]DE@QJMHEF?FDHCFKFYHODSJSR{@JQBQJMJSDSLQ?CHAXHPHVDFJHH^JFFJ@BBTBJFBD`@FJJD?NF@DNFDAb@LPLf@LJENH^CDD^N@DEJEp@D`@If@@n@ETQHAJDLHJFVVZDN@DCDEBC??BRM^JBHKd@GHAJMXGBKCWQQJEZELBJCD@LIh@AVBDEGINXEH@h@Ak@?QEGGEMFYAKUFOHSFaAc@]Im@DGDI?WF[Pm@t@]lAA|AHTJDFPFB?LDDJHD?HH@b@Sb@kAlDd@R@HFRLPxAt@HFf@V?BOb@UpA@\\Eh@FL?\\Oz@]t@SXa@VWHa@Zg@Dg@LQPER@XP^BJFFFRUx@?FDLj@t@R^b@d@Tl@xAv@WbAJP?\\_@dAGD_@|@?HHPBJHF\\H^Xl@XPL\\PRDl@b@TFn@\\B?PJBDtAn@ZR@D]p@Sp@EJKFWt@INGRGHId@Ub@GZWh@S\\Qj@GLE\\E@MI?HCBCASK@O"
+  },
+  {
+    "name": "Morning Ride",
+    "distance_m": 52790.5,
+    "start_date": "2025-10-26T09:11:09Z",
+    "type": "Ride",
+    "map": "c||wDxopsQpHuRrPhIbAe@dEwFZ?lCdCpBE`Bi@fEwDvEaBbBuE~@WRa@KgKh@qEx@_BtAeA`A_BdCmHnA_HpBiFr@kD_@VmC|GkBxI_CbHcAlBsBbCg@tAe@rDLnJe@tHcFNkClAmD~CeBj@aB?cC}Bm@IgE|Fu@d@qA_@iMyGg@Dqa@~gA{DlJwA~Bm@bC{EpMwMkHgAYuQxJk^zM_BZ}|@ad@gQfc@wN~_@yKoGmCs@eCIoNfAuB|@sBxB{CfAoAfAyBfDuCxG}@nAoAjFaArBoEg@eFeBeFw@uQcAsCNmEtB}GfJuC~FeBxJc@z@sDoFiBuAwBm@iERsG`Fi@dB@tCYbAmA|@oADgCpBt@zDDjBcDrWDjARj@jEfEjGpKwBlAOtBe@bBB\\pAzAFz@aCxI@rIQx@kDd@kJCU^Dn@~A~C?j@wKzBeBq@oD_FuEsD@w@g@u@b@x@QXgDuBi@IcJpAuBWuDsBaAVU^Tv@rKvMpC`CfDhBxH~AvZ~AfM~BvKfEt^zRw@zCYtFkA~AuBFyCsCaBUyCp@aCfCwCfB_@bBDbCOjAe@v@mElDVjGs@bF_CjH}@z@uARcDs@cAo@gCsD{Ci@gAo@|@{DDuAQwAo@iAwEmEiAiBy@uBq@oFs@aBi@c@s@L}@hAwEpJeBnC}A|AiErC]IuAaDaDsEaAwB_BkA{BKoHtBcEIuEmAmFcGqCeAf@}G}@gCqKcK_@uAe@cGwBmEgAiAgDmAeAgBGqALqApBcFdAgAtCg@pAPxAx@`AvAbBdE`A~@fBz@fARjGUvMp@zDuAtAqArAsDXmFzA}BLq@k@uA{v@kaAsD}HmPmb@cG}JyGsJmAcCq@eCYuCB}f@iAo\\J[tCJzGnEzEf@vHnEnA\\dAMzA{@hApAf@@jBsBnBiDfAo@zBpD|D|Czd@`XbMnFfKbGfItGpIpNjCdCbZdPfFrBvAcDdAqEp@mA~IkElBqBfPcc@fPgJtGcNtCeJhA_AdJ|Chn@~\\vKbHhBvB`NrHZW~R}h@tLaZth@`YtRjJvAOz]oMjSgKjVtM~H~CbKlFZ]dJ_Vj@qDx@gCv@mAzC{B|@uAtK}YjE}KB{@{@}B]{FlEqLfF_HvDu@bFcErCy@|DHd@W^gIG{Kh@}C~CkEx@kBvB}F~AgIfCuGzEkIfCuC`@oANgB}@aKKmBH[f_AaMvAeBxAmFfCwCja@{NtCcCxGqJx@e@jBYxHaYvFzAhd@zO`@s@`Keb@TOJZFm@|CbA"
+  },
+  {
+    "name": "Cycling",
+    "distance_m": 26735.3,
+    "start_date": "2025-10-25T14:39:21Z",
+    "type": "Ride",
+    "map": ""
+  },
+  {
+    "name": "Zwift - Tempus Fugit in Watopia",
+    "distance_m": 66099.8,
+    "start_date": "2025-10-25T13:46:38Z",
+    "type": "VirtualRide",
+    "map": "py_fAevbz^qG}DoByHt@{GuBiFrE{@d@kFzAi@vEzAh@zCzBt@{@~Cv@vApIYbCuCiAaF|C_DH}DuJ}OpAyE~FqDCeEeEqF~BkCGgDpJkZu@_CeHsCqA}EtIcTtI?bDiEfGeAh@kE_D_GfCmBxBfAhAjB}^pUwHhR`AlEdItDb@fDuJzXLvC_CpC~DhFPtDsGpEiA`FxJtOKvDwCrCfAbFgCvC_H^wAsA~BaFdNaH}@sH{HyJpAaFbG}DGgEcEgF|BeCIaDvJiYk@_DcIsD}@oEpIySzIEtC_E|G{A\\_EcDoFjBsB|B\\vHdKvDqGpDfALbFdD`D_ErDyAh`@|FzIjToBjBj@tA`SoCnHjAzKnNxBvEjH~GsM`DlAh@xCfFV`CdDrF_BJwCsBcBgGdDkECmAmDyCiAcHvMsEiHwNeCcAmKrCkHyAgSkBq@uTrBoFyItAw_@`E{DgDmDy@kGqC[{DjGwHqK_DDgArBbDfFa@xDmGlA}CdEuIAiIxRf@|FpJdHuJzZH|C{B`C`EtFJvDaGxDyAhFzGfIdBhIiDlEdAbFwA~BaLNbCkGrKoDlAeCeBmIyGiIpAwEbG_EE}DcEsF`CoCSeCzJa[y@aC_IsDa@oF`IqRvI?tCaE|GyA^kE_DwE`AkBxCApHlKxBcArAoE`C`@v@jGdD~C_EvDwAh`@zFzIrWgAxAvSqCxGbArKdOlCfEdHdHwM|ChAd@zCdFXtCjDnE_A`@{DmDkBgElDwEEaAeDgDiAsGpMyEiHkMaBqBgJrCaIwA{TwBm@eTnByEcHzqDdfJyAlChDpGqCPn@~BqAt@JxBxCrAd@rG`GnIzFxDfFbAvJoA~D|FzEu@fBjDpCf@jG{B|GnFhC{@zAyEqFsFNiFxMqItNQjJ{GxKy@zI~B~Ii@bEnEnIIdKcJxAyHxN_S`EwAdDmMc@_DjKgC{GuHeGn@lAuTgBiLsAqBuGiAKcBbIgAxDqE`FxGdH_A`FqEbDmNmIaErAkF_@kFnGcBhIq]xFcDxG}AB}KuHiDpIkE}FmGkmNhgDZuAwGsTlBiB|D|B`@_AgFcLkRcJcCwKvJoJgD_F`CaAqAcObBgG`HuDzUsDrJwL`G^|KrJxi@gLf@zQmFl^wKNoF_OkBu@kBpA?vDbHbOkMbC_AfBnO[eOhDfOl@lD|JuCpDzDtE_Db@p@vBgHE}G|GiBzLL|UyMdXqFfCyGQ`EuAi@gAcHdBeEwDL{BhBq@a@yJyAo@wGnDsCyGtF_L{G}UhBcBbEzB^{@kEkKqQgIqD}HZuExIoHkDwE~BeAoAoMl@eF~CuDhHqBjeAsIbVoGtAbAEzOuAtHmhAwwFtEp@`DeEhCE"
+  },
+  {
+    "name": "Afternoon Ride",
+    "distance_m": 8761.2,
+    "start_date": "2025-10-23T17:48:04Z",
+    "type": "Ride",
+    "map": "ez|wDfnpsQxAx@`@\\nArAdAr@l@NzA@b@JfA`@v@b@dBn@j@^PRFNBZHZNrAJf@Pb@Df@HJ^XHNy@~BC@EXmA|C[dACJ@JDHJD`GPpG\\jBDbAE`BJr@@p@HrH`@xCRtBFd@DF?FGR?p@Lt@Dh@J|CLzCHnBPnAB\\K`AGn@Jt@Hz@BlCPIABBLEh@YXCZ@dB\\THRLr@JrElArAb@tBh@zAb@lCn@tFzArAZ~Af@FBAHB@l@Br@P~Bp@PH|@NrA\\x@Zz@LjFtA\\Jj@VhAPb@LXFr@Tn@Nx@Nr@J\\PnC`A^HdA\\v@Lr@PHAFENg@XcB?WDWPm@TaBH]JQH?`@Jd@RBMAF@BA@?VHKP?JHBDALMJIAIHC?AELBGFLFBDAFKLKBi@IKEEMFm@JEL?^NKZAP`@VN@qLw@a@Gy@a@iBa@q@WSC]Mg@I{Ac@g@Uk@Iu@SeAc@{DaAe@QkB]UCQE_A_@iAYkC{@eEgAg@SkEeAUKaAYWQYGCEq@ImCu@eDw@[K]EeAUwCw@mB_@EDGRSpAU~@@JTLCHGEA@ED?DNCGAYDSL[`@MD{@Gk@GQ?{AMgAEm@Ii@?_AO}@B_BE_C?i@K_CMo@Kk@@QGcBMI?SBeAKqB?mEMgFUUGg@CqA@_AK[IwAKo@D]C]@{DOkCMs@QSAKECEBW|AwDV_At@qBF]ESKMMYUcAAW@aACWaAu@k@]y@m@iBo@m@a@m@W[Mi@GuAGi@Oe@Se@_@y@}@iA_Ac@Wa@QKKE?GDe@vAMVIDEJQG"
+  },
+  {
+    "name": "Morning Ride",
+    "distance_m": 17647.6,
+    "start_date": "2025-10-23T08:55:24Z",
+    "type": "Ride",
+    "map": ""
+  },
+  {
+    "name": "Evening Ride",
+    "distance_m": 9656.1,
+    "start_date": "2025-10-22T21:32:02Z",
+    "type": "Ride",
+    "map": ""
+  },
+  {
+    "name": "Lunch Ride",
+    "distance_m": 23847,
+    "start_date": "2025-10-22T11:47:48Z",
+    "type": "Ride",
+    "map": ""
+  },
+  {
+    "name": "Evening Ride",
+    "distance_m": 20386.2,
+    "start_date": "2025-10-20T18:37:41Z",
+    "type": "Ride",
+    "map": ""
+  }
+]
