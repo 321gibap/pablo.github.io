@@ -7,6 +7,13 @@
     "map": "w{|wDtnpsQVYFAh@L~@l@|AfB|@n@n@VRD~ADTDd@Lh@TfAl@jBr@j@h@LXLr@B|@Px@Vj@AZ@JDHn@b@DJANu@hBeAnC[hA?NDH\\T`@BVJDEj@?rAJJBVPv@H`CLx@F~@Az@Gb@HhAH`@@|@ENHZFn@@PFd@?xDX`BHz@BZDn@@nBHDEJCj@AXIH?r@JpBDtALh@Hj@AbADl@NdBLz@?h@IPAf@JvBJZ@PDrAJZETKTGH?R@pAZ`@Fb@Pj@DdBb@p@VpGbB\\Z\\JZFd@?TFdHjB`AXnAZz@Vl@Lx@Tf@PtBh@b@Pj@HlAV^LRNXFb@FfBj@fDv@p@ZbAPx@Rv@Zh@FfA\\\\HRH`ATjAZTJbB^tA`@N@PAHGFGJY^kBDQHGLg@RoAPuAFKDHb@RL@DGGXIHSBCEDKPFL?_@LEAEMBEZNFHAJCBO@Y@GM@SAMNFn@J@DAXBFJ@TL@DPCYMUa@OMQJORCFAPDJNHVDDA@MCEQQWGKP?JB?F?NMBKEECJAAGDGLAHHJJ?JBDKPEXQPANG\\qAD?DBEXC^Qf@IBSbAGDQDk@Co@YOKEGw@Ya@Ek@QOQc@KMQKE{AMe@M@DCHSMk@?QGg@IgAS{@WWCwBo@m@KsAi@cAU_@Mc@IuAa@uBc@u@_@u@Wo@Kq@UsB_@yCy@kBm@gBc@QGoBa@OIo@Uu@OSKa@Ea@K_Cy@[Ge@MQCcB_@mD}@I@CFEr@Qv@MZIh@IH]@m@SaAU]AYJY^OD[@o@E]EI@IASE_@QWGIDQCIDe@@[AYMg@E]@QA]@WCk@DoCM_@GQB[EW@e@E}@Cg@KG@mCSu@OiAGQ@YF[CoAB_CKY@sAG]?iCQe@AQEs@?yAQWBy@E[DQGo@Io@Ba@Ks@ByBI}@EO?g@Ao@Qy@GIEEGAK@G`@}@n@aBTw@v@oBPq@AU]o@Ka@Ii@Ae@By@AKCG[Si@i@MIUIe@]{@a@u@UUQs@]YI]OmAKc@?[Ek@Q_@SUQi@i@QWo@k@gAy@g@WI?MNYn@Od@SRGLEA"
   },
   {
+    "name": "Afternoon Ride",
+    "distance_m": 11265.4,
+    "start_date": "2025-11-03T18:39:00Z",
+    "type": "Ride",
+    "map": ""
+  },
+  {
     "name": "Morning Ride",
     "distance_m": 56425.1,
     "start_date": "2025-11-02T08:37:38Z",
@@ -61,12 +68,5 @@
     "start_date": "2025-10-26T09:11:09Z",
     "type": "Ride",
     "map": "c||wDxopsQpHuRrPhIbAe@dEwFZ?lCdCpBE`Bi@fEwDvEaBbBuE~@WRa@KgKh@qEx@_BtAeA`A_BdCmHnA_HpBiFr@kD_@VmC|GkBxI_CbHcAlBsBbCg@tAe@rDLnJe@tHcFNkClAmD~CeBj@aB?cC}Bm@IgE|Fu@d@qA_@iMyGg@Dqa@~gA{DlJwA~Bm@bC{EpMwMkHgAYuQxJk^zM_BZ}|@ad@gQfc@wN~_@yKoGmCs@eCIoNfAuB|@sBxB{CfAoAfAyBfDuCxG}@nAoAjFaArBoEg@eFeBeFw@uQcAsCNmEtB}GfJuC~FeBxJc@z@sDoFiBuAwBm@iERsG`Fi@dB@tCYbAmA|@oADgCpBt@zDDjBcDrWDjARj@jEfEjGpKwBlAOtBe@bBB\\pAzAFz@aCxI@rIQx@kDd@kJCU^Dn@~A~C?j@wKzBeBq@oD_FuEsD@w@g@u@b@x@QXgDuBi@IcJpAuBWuDsBaAVU^Tv@rKvMpC`CfDhBxH~AvZ~AfM~BvKfEt^zRw@zCYtFkA~AuBFyCsCaBUyCp@aCfCwCfB_@bBDbCOjAe@v@mElDVjGs@bF_CjH}@z@uARcDs@cAo@gCsD{Ci@gAo@|@{DDuAQwAo@iAwEmEiAiBy@uBq@oFs@aBi@c@s@L}@hAwEpJeBnC}A|AiErC]IuAaDaDsEaAwB_BkA{BKoHtBcEIuEmAmFcGqCeAf@}G}@gCqKcK_@uAe@cGwBmEgAiAgDmAeAgBGqALqApBcFdAgAtCg@pAPxAx@`AvAbBdE`A~@fBz@fARjGUvMp@zDuAtAqArAsDXmFzA}BLq@k@uA{v@kaAsD}HmPmb@cG}JyGsJmAcCq@eCYuCB}f@iAo\\J[tCJzGnEzEf@vHnEnA\\dAMzA{@hApAf@@jBsBnBiDfAo@zBpD|D|Czd@`XbMnFfKbGfItGpIpNjCdCbZdPfFrBvAcDdAqEp@mA~IkElBqBfPcc@fPgJtGcNtCeJhA_AdJ|Chn@~\\vKbHhBvB`NrHZW~R}h@tLaZth@`YtRjJvAOz]oMjSgKjVtM~H~CbKlFZ]dJ_Vj@qDx@gCv@mAzC{B|@uAtK}YjE}KB{@{@}B]{FlEqLfF_HvDu@bFcErCy@|DHd@W^gIG{Kh@}C~CkEx@kBvB}F~AgIfCuGzEkIfCuC`@oANgB}@aKKmBH[f_AaMvAeBxAmFfCwCja@{NtCcCxGqJx@e@jBYxHaYvFzAhd@zO`@s@`Keb@TOJZFm@|CbA"
-  },
-  {
-    "name": "Cycling",
-    "distance_m": 26735.3,
-    "start_date": "2025-10-25T14:39:21Z",
-    "type": "Ride",
-    "map": ""
   }
 ]
