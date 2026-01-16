@@ -1,5 +1,12 @@
 [
   {
+    "name": "Afternoon Ride",
+    "distance_m": 9399.5,
+    "start_date": "2026-01-14T17:36:58Z",
+    "type": "Ride",
+    "map": "o||wDhqpsQT[XiAFGFCFBx@d@t@p@tAvAZVp@`@\\FvAFr@JVFp@V~@f@vAf@d@ZTVVj@DTJrAb@zAFd@HLd@ZBNaAxC{@zBS`@MDKJO^UT@JNJzBLjBB~Ij@`@Af@GZMT?H?l@Tr@FPEb@ABDn@LlAHPFx@HxAJ~ADZDzAFbCDb@LZCVBd@?NBj@?NHd@Eh@JvABv@HtCBF?PZh@JdADjBI\\ZDBTBd@@f@Ef@?lAF`@Kj@]TITCXBnAXP@\\Pf@JtBd@|@ZtAX|DhANHHJLFt@Dd@HbCr@tIvBl@RPB^NpBf@jBj@`Cf@TH\\Tj@H~A^r@Vj@HvA^NFVR`AJd@Jf@P`@Dv@Tx@Jp@VH?`@HrAd@z@TzAp@XDz@XBA^{BFo@?GN_@Ba@TeAD_@P_@BGAC@HFJVJT?BHHHAJKTIBG?@KB??J_@FDY`@JDDBLS[AS@WBOFIJIXMR?UMABE@@?@KHUDAR\\APDX}@uBEAIT?NHp@FHEAEDAJ@?EBEHCj@Kn@@RPFZSHQIMK?WGC?CBC^BFf@FDAP[]IK@GD?DJJPHF]@FGNG@IC[_@Iy@KDShA@LAx@EFIBUS{@]QEq@]eAOKIaAUYMEEs@Cg@IMESMg@Ok@SSCWGaBg@a@Qy@S{@]o@SkCm@c@Qs@M{@WeBq@m@E_ASm@WkAWGEOAw@Y{Bg@iBi@oCq@WMy@Ug@KQGMIm@Ky@S}@Wu@OsCw@k@MuAe@WCO?IBMLMl@Mz@GRCTEPKLg@CwAe@g@GYDOHW\\e@HsAOaACaAMg@?}@KW?mAMo@Ca@@qBOi@?cAGe@?cAIe@Ds@Cy@KUDg@AuAIe@?wFSsAMo@?wCQkCWu@@k@ImAKa@@WAw@@uCKgBOsBK]Ka@AMGCEAMBGjBuETu@z@_C?SWOGIIWKi@EU@wAAKEG[Ue@_@i@Y]Y]U}@Y[Eu@k@m@Yy@Qa@CY@WCmAOMG}@o@qA_BuAcAa@SGAE@ETO^Wv@ONEJG?EE"
+  },
+  {
     "name": "Zwift - Race:  Stage 2 - Race - Tour de Zwift (C) on Hell of the North in France",
     "distance_m": 20502,
     "start_date": "2026-01-13T18:12:25Z",
@@ -61,12 +68,5 @@
     "start_date": "2026-01-03T16:51:16Z",
     "type": "VirtualRide",
     "map": "dw_fAsxbz^{BYQGOKKMO[_AuC[{AY{@E[?Y@[DYl@kCB[?[Ig@KWUa@}@uAKUCK?Y@KJUNQ`@QX?pAN\\CJGFMH]DiCDc@DOTY^M`@C^Bl@Lx@Vv@^h@ZVVDN@`@Er@@PJLNFr@DNBXRHN@NENo@jAO`@?RBPFNVZNHb@Jv@@t@C`Ea@\\Sp@s@`@g@N]DQ@OGa@q@iAIOIu@@c@FOJMZU~@e@XYP]Ns@Ba@?c@KeAc@aBk@{Ak@cAk@o@aBwAeAk@QMIQEOAUB?A]J}@B?D_@P{@P_@Ze@LORK`@KfAUb@Q^YPULWHWLw@@m@Gw@Ie@O_@[e@mAeA@Ea@WY]O[?WR]zAmALW@]Uu@CO?OF]j@eBjEgKbBqENm@Da@DcA@q@Ea@I]O]SWYQg@SaD}@k@[WYCC@CUSWe@Sg@Ia@Gs@BYF[Vq@rAwCj@eAD?HYnAiCh@_BRqAJUFIPMf@Q|@Qd@CR@RD|@b@VFf@@f@IVOTUTe@d@oAPWJIJG\\E`BDd@Ib@M\\QXUPYPg@"
-  },
-  {
-    "name": "Lunch Ride",
-    "distance_m": 21163.8,
-    "start_date": "2026-01-03T12:36:41Z",
-    "type": "Ride",
-    "map": "ob}wDn}psQaBvEwE|LkAvCiAdDmBpEoDbJ_@t@SGq@XQE[WU}@o@{@q@i@k@EEQBs@CGc@BaAXaA`@g@h@u@Tk@Du@CQGiBjAoA^eANoEDoBCy@KcBc@oC}@_Ca@k@HyBbAc@Fo@CYGqHeEaBcAcEuBMAgCaB{Aq@aAs@}GsD]Ms@AWDiDpAgANiHVsEFiEXIHo@xAsBvFkBhEgHlR{AnDcBvEcA|BsGrPiAfDyElM_@rAi@pA@P|@|@`@x@Rt@pA|Gl@`B~@tAnAdAhBz@hDx@VRTd@XhAPFRC|BcA^m@t@uB\\]NGN@f@VdA~@j@h@h@t@fA|@vBjAxEbDvAtA~AfAdBdBrBjA\\^\\t@f@j@~B~AfAR`Ab@V@^c@zBgGzBeEd@kAf@_AjAsAZQRAjCLd@Jb@Tn@p@d@X~@HPMp@AhA`@z@x@jAfCXX`@TvESRSZq@LI|DR`El@dAZdARbEb@f@?rFd@n@Pj@X\\X~CjDbAt@t@\\bGfAh@@|BW^DXLbAbAbAh@n@d@`@~@Px@Rp@d@z@|@fAdAt@lCz@`F|CjLrFtA`@nBVl@P`ErBtBd@ZPp@|@jHxD?NiElLgBrFyCjIyAvDQ`AJJVB`BKhA?dDMlIe@nDeArAo@dIqFnEeDnJqGhA_AlG{DpB{AbHiExCeBlHcFz@a@|DcC|@s@`AkAtCkErAcCNAdAb@l@AfGyBh@i@|ByC|B}D|@wBX_@b@Qb@G`E@XEd@UXe@xEiMLc@@WGs@Ws@}A}BKCa@VYDq@?c@SY_BRaBhB_CZYbGuBt@q@dAuAn@iAhCqHl@wBdAkCf@aAtBuC\\q@nB{CJWL{@F}By@aASIa@@QGCILuA\\cA`@_BHw@AKSWMGmAMaAAYFgAWCEBO|@uDDACSMIGO}@g@wAWwA_Ao@Mc@UOSe@QmLuCWQCSXeBLk@Re@Do@h@eC?UKKyEaBeHwBgFkAwEqA_@EqGgBeAQQOgA]aKmC}AWWHILk@vCIN_@CsAa@k@IQBU`@QLm@BaBCmCWwBFuAAw@Gg@Fw@AoBUuAg@oB]q@Bu@Ro@AcBWmJYeBQiAFgBAsG_@mBSyGSsAOUQ@U`DiJFc@?Ua@q@Ki@EkBGUiAaASIs@i@yAi@eBcAgAWeBI}@[s@c@yAsA[a@_BcAK?QV"
   }
 ]
