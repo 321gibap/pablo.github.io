@@ -1,5 +1,12 @@
 [
   {
+    "name": "Lunch Ride",
+    "distance_m": 29528.2,
+    "start_date": "2026-01-19T11:55:35Z",
+    "type": "Ride",
+    "map": "yagwDnkjtQtDyYgAeBAiCw@iB|@_FoB_BqBNu@p@gAvLcBfCoBpAy@dCmB@k@vA_A\\cL@eDpBk@nBo@HMe@`GsEtB]Bw@y@q@{BrAg@ShEeDvBCvEt@tFaEjBUb@}AQwDt@aCn@uG`CsDjCYpDzAj@jA}AxF@tF`C`CrE|Af@xAB`BkApDUzJcAdDcBZ_@n@_Dk@q@vAi@W`EuXCoB{@cAEoCw@mBr@aF}ByA_BTy@|@cAbL{A`CwBvAw@jCgB?q@tAaA`@_LB}ClBu@rBu@DIs@tF}DfCa@Du@u@e@wBfAy@UxCuAt@sAvB@nEz@~FiEdBSh@wAWyDp@{Bp@}G|BqD`C_@vDxAp@`AuAdG?rF|B~BlExAt@dCgAjF_@lKkA`DeCbAqCm@k@vAi@S|D{YIoA_AyA{@eFr@wEqB}A}AN{@v@gAtL}A`CqBnAy@fCiB?i@rAaAb@gLDgDrBc@dBgAE\\cAlEyCnCi@Cw@s@e@uBlAk@_@fE}CtE~@jBAbGgE`BMh@sAOcEx@kCj@sGvBiD|Bi@lFvCAnAqAxDAvF|B|BnEzAn@~A?hBcAlEWtIeAjDaDfAoCc@OpAw@Q~Dm[gAgBC_Cu@iBt@}EwBeBwCdAiAjL}AfCsBvAw@fCqB@_@lAaAd@mLBcDvBm@hBw@K\\cAvEyChCg@@g@{@o@yBfAq@QpCyAv@qA|B@jEz@~FkEbBOh@}ASyDr@aCl@sGtBiDdCg@xD|Ar@hAuApFAzFlClCbElAn@jB?vAkArEUdJcAxCoCdAgDo@SjAcAv@X`@Um@rEsYEuBiAsA?cCu@eBr@iFsB{AyCbAiAnLgBhCkBhAw@jC}BCc@|A_A\\{KBcDrBo@nBo@EZoAzE}CtB_@y@wAoBnAm@e@rCwAp@kAvB?vEx@xFcEjBYZyASwDp@qBp@}GxBoD~Be@dE`Bl@`AwAvF?`GvB|BzEzAh@bB?`BgA|DSfJmAlDkC`A}Co@c@vA[KtD}XEcBcAqAA_Cu@yBt@qEwBgBaBN_A|@aAdL_BfCqBpAu@hCwBBc@tAy@^oLD}CnBm@nBu@?NiAtA_A~CkBnBUCw@w@g@wBfAo@[vCmAp@mA~E|@jBCfGoE|ASf@mBYwCv@_Cl@cHvBgDvCc@fDpAt@jAuA|FArFzBbCzE~An@hCmAxE[lKq@lCyC|AcDs@_B~B"
+  },
+  {
     "name": "Morning Ride",
     "distance_m": 63109.6,
     "start_date": "2026-01-17T10:09:24Z",
@@ -61,12 +68,5 @@
     "start_date": "2026-01-04T15:43:58Z",
     "type": "Ride",
     "map": "ur~wD~mrsQm@PwBXmDFaBCuAM}GqB}AScAJmAn@i@Ne@Dg@EsRiKeCaB}Ak@aBgAgFuCaA]a@Aq@LqCdA_ARgTp@g@HQTcA|BkOp`@{IzT_@nAsCbHaAzCgCpGuCrIBJbAv@h@z@tApHj@hBt@pAd@h@v@p@x@h@zAh@|AX\\Pr@n@^rATH\\EnBiAT]p@mBT]ZOZHhGdFhBz@pGtEpFtEvCvBp@jAnAhAvAx@dAFh@Pb@KjD_JjAmBz@kBxAsBj@a@TGl@AlBVt@XvAbAj@JfBFf@NlAx@tAdC^^THl@JpBEf@DBFGTs@tA_AxBG`@@b@P`A|@tC~C~EN`@?TcDrCuEbDg@t@oAxDKN}@KwAa@{Ce@m@SmB[aLwDkBc@_AE{AP}Bz@_B^oERkDpBeBf@oCfAwDv@aCBg@Ru@n@aBp@aTlFu@FmAGu@SgAo@sAe@uEWo@?_AL_@NwBbBaBdB_@P[KQs@@Sd@uB?k@II_@AgBj@sFhAeA\\w@p@]dASrBMd@S`@[\\WPgDtAsALi@CSFO`@EfAu@hFQJmAEy@Fu@Na@\\Wr@W`@]hAm@dAw@`F[z@mAdBs@t@e@T{@Dm@_@]w@EY@w@IkCo@eCKMeDRs@M{@o@YI[BkAd@oDQmCZmA@uAWcBgAw@a@[o@EW@m@Lc@j@q@zBoAR[Jy@Gy@UcACuAI[OKw@Iw@Ue@_@]k@Ko@N{A@k@Qi@WMm@Hw@C[IMQHsAh@qAbBqBp@sAFg@@kCNwB?_@Qm@}@_BUaAOSs@SiBy@oDeBy@i@oEiEs@aAuByDo@o@uAcAo@YcAQwCFk@Ig@UuCmBQWBWjAsCv@{Cp@oAX[v@g@nDuAdB}@|@s@t@eAxKkZxBwFZk@j@_@pD{AjFuC~@q@`@i@lHwOTo@tAqFXa@\\W`@G`@DnEdBzKtFbg@pX|BbBz@b@dC`Bl@j@n@fAPNbBp@|GvD~A`AR?LGPa@vF{OdA}B|EaM~AaFfWmp@t@}A`FO|Mo@bASvBw@tAQ`AVxGvD~@v@lBn@~AdApGzCbHhEvAl@n@Fn@ItBcAp@Mn@JdDnApBj@bBXbAFdDAtCObAWz@_@zAkAnCaAPOv@eDdKgYpAgEpEwL^y@`A_BVMd@BdFhCRDZEVL"
-  },
-  {
-    "name": "Zwift - Tempus Fugit in Watopia",
-    "distance_m": 4229.6,
-    "start_date": "2026-01-04T15:31:17Z",
-    "type": "VirtualRide",
-    "map": "dx_fA{wbz^o@[{AQ_@KSMMSa@cAm@qBo@gCGk@?[DYd@sBHe@Bg@A[Wy@g@y@BA_@c@Uc@EQ?SF]TY^QX?nANZAJEJKDKF]FuCF_@TYZO`@C^@j@Jd@Nx@\\~@d@RPLX@ZG~@BLJJNF~@HXPHHDLANCLq@jAMZ?^BLFLTVLF\\J^B^?~@EvD]b@[p@s@b@m@Ng@?YGWm@}@KUIc@AWBa@HQLOTOj@Wl@c@Ti@Ls@@eAMiA[mAg@sA_@w@BA{@aAaBwAiAo@WSOYCO?_@H}@VmARm@Zk@XUNIfBa@n@Wb@c@NYJ[Jy@@w@Gs@Om@O][_@yBoBQWEMAQDMHMVWbAw@JMFO@QCQSu@AQFg@v@yBb@aAdC}FdAmCB@H]^cAPq@Hg@FmA@s@Ec@Kc@S_@MM_@Ua@OuCy@]Mc@Ye@i@a@w@Oa@Ga@Au@D]J]"
   }
 ]
