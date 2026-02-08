@@ -1,5 +1,12 @@
 [
   {
+    "name": "Morning Ride",
+    "distance_m": 84119.6,
+    "start_date": "2026-02-07T08:26:55Z",
+    "type": "Ride",
+    "map": "_~|wD`spsQ{@pD`]hRsA~DNRdo@bCnMzAjRVpAa@~jA~ZZr@W|DpMlDLf@cAtFdGx@iBzIrIzCfEfFEx@jHtC{LxZrGxFeJfOuBxPkK|TuDlNu@lGlA~DMzGgAtGqCvEkEbL}BxA_KzB}AfBq@`DOtMpDnWEfQpA|Rt@bA~\\hSwEjKx@jDgBvBo@vD_C`Hl@hJg@zCcExCiJx@iAr@iA~BuA^aPrd@oBfCu@`Ci|@fl@mGpCaIxAkMAaOiB_CjKgBnMQfR_BpFoKlHqHlH{MdD}EjFRhBf@L@uAFdAYPo@uAm@EoGdFsLnB{FxD}CrHe@`KeArEiKdNeSnm@kJtLuB|FUdH|BpPd@hQtFtVHtKg@vJj@lGdDxGtNbMhErLrCpLrJpPrCxRtDdNxH`_@FvF}@|EmOlVmB~Ek@pEg@zOyBtIc@|Eh@`H|Lnf@NrF}@~P^nHtClNfE|KiNbKuCpEw@lE[zJuFfVaAtIaA`DmDzDiPfJwA|B_AnDAlJoEpAwDlCoSd\\eNdJaChCkB`FcDvTwB|EyLlJsJxIk]zLcGhAqHG}D{@ek@a^wH_CsSuDaO_H_SgR}IiUiF}Es]gKmc@{U_m@yKkHcDyNmK_JwAqOy@gPiJwBqCqIcRuEaH_W_UqB{Ew@sFB{ElDic@Ve^`FyUrCmGbE_Fb\\}RdDuCrDgIn@eI}Au]?cDnAOqAWl@{Lg@mIyB}KoEwIeGuIwA}FNeHxEoRCaK}AaFsIcOaDuJiOukAcJwa@aFwEmlA}f@Um@j@mBBl@sApAay@m\\g{Ao_@ii@}f@_aAu_@_EsCaK}LLkAfByCjYsZ`AmDNmHlDmMjLgMf@oDi@i^fOeEnGDzCoCtAab@mAcBsAsGgBcE^iPvAqFvOsEpAgC|@sG`F{ENeGi@}I?gNj@_CbDgBjA}BEaBsAwABm@l\\sKlCO|P{GiAgEpAiBeAyA}AgGcFcHqDuK}F{HbWsa@nMmYxTkNpLsMrLiKnRuTzFoCbFS|I~@tJkAlPjAdOy@dg@fMjIR~H{@|FD^e@@_El@{BvDWbFaFbFaAFy@dCqAj@Rt@|Dh@XtC}DrAw@fP_BlGyBjRfh@|BnDfk@r\\`XrMfI`HxIxNlBhBh\\|QvDnA`E}L~JgFfByBbPec@jPgJlMyZ`BHlR~Ihd@pVhK~GpAnBhO|Hxm@m~A|Ty@pHeBxf@rWfFsA`LnCbJ@jJuDRLg@bDHbCh@nAhC`AtBqBrDOzAiCpf@_rAxP~HjGoHtCpCdBClCkAJ[mBp@nF_E"
+  },
+  {
     "name": "Lunch Ride",
     "distance_m": 29528.2,
     "start_date": "2026-01-19T11:55:35Z",
@@ -61,12 +68,5 @@
     "start_date": "2026-01-05T19:50:10Z",
     "type": "VirtualRide",
     "map": "vy_fA}ubz^qAqAmCe@q@_AuBcIv@cFA}@mBsDGs@~@}@pCBTk@LyD`@e@`AKxBf@jBbAXf@?bBzA\\d@`@A^aAxBLp@f@`@jBJzEa@hAw@bAyABw@_AaBKkAXs@~BiBVwAKkByBeGgFaESkAf@uCd@eAfEeBbAcBFyAUeBs@iAyBmBQu@~BeCWiBHo@pIeTd@cEOyAm@y@aF}AiA}@w@cBKsBfGuMdAaE~@e@hBSrBt@hAEx@k@~A{CrCCrBcAj@gBA_BeDqFf@gAdAo@`ACx@d@~EdIbAz@j@BdAs@bBeF~ARjA`ANx@G|CjC~AZdAQt@kCbAe@dACdLoAvRr@tAhClCZzAXZfGj@jL{Ct@@v@n@p@nE`@lLKdCkBfB[dAR|Fv@tCfBv@dCMrAn@zDh@vAfAd@zCnAbAhAu@pC{Id@u@f@O|@J~AhAZlCbFXrCjD~CU|@q@^gAD{@Oy@iAcAiA[oBd@aB`CqFAW_@[cCmA{@oAQkA`A{CjJaAf@gAeAc@sCwAiAcEm@kAk@aCHaBm@q@_Ba@oFHmBlBgBZiB]aMw@{F}@o@s@AuLxCgCc@sBCUO[cBiCoCu@wAvAsS@iKl@eAvBs@Xy@UkAoC}AIyEmAgAeBUe@j@_AtDq@j@m@JiAw@qF{IcA[kATcAz@Ux@`DhFBzAg@hBkB~@iDNyAxCy@d@cA?mBs@iBR}@b@uArE_GpMFlB`ApBdAx@bF`Br@dBCxBW~AwInTGr@TbB_ClC\\`A`DhDV~AMnBaArAqCx@s@j@m@xA]dCVpA|DtCfAzAnAnDPvC_@xAkCtBBvAdAhCwA|By@f@qE\\wACw@e@GaAfCyEnBcAxC_@zB_Ax@u@\\}ASuCmAmDiB}B_DwBQwAd@kCl@oAbE_B`AkBDyA[gB}C_D]u@Nc@pBoBW}AHw@rImTXyAFcCUiAe@g@wEyAkAy@eAwBEcBtFwLxAeFrCw@dCr@nAEn@c@|A}C`DItBkA`@_BCcBaDgF^_AhAu@fAGp@\\jFpIhAx@l@GbA}@rAoEpAFvA`AR|@IzCj@n@`Br@ZrAc@v@{Bx@_@z@EjLkAtN?lC~D`FRvA^VvBDxBd@`M}Cl@@p@`@r@lDh@jLKnD_@r@kAv@Yx@@dDn@vE^j@nAj@jCIvAn@bEp@zAnAZhC`AbAhAW|@yB"
-  },
-  {
-    "name": "Afternoon Ride",
-    "distance_m": 23466.4,
-    "start_date": "2026-01-04T15:43:58Z",
-    "type": "Ride",
-    "map": "ur~wD~mrsQm@PwBXmDFaBCuAM}GqB}AScAJmAn@i@Ne@Dg@EsRiKeCaB}Ak@aBgAgFuCaA]a@Aq@LqCdA_ARgTp@g@HQTcA|BkOp`@{IzT_@nAsCbHaAzCgCpGuCrIBJbAv@h@z@tApHj@hBt@pAd@h@v@p@x@h@zAh@|AX\\Pr@n@^rATH\\EnBiAT]p@mBT]ZOZHhGdFhBz@pGtEpFtEvCvBp@jAnAhAvAx@dAFh@Pb@KjD_JjAmBz@kBxAsBj@a@TGl@AlBVt@XvAbAj@JfBFf@NlAx@tAdC^^THl@JpBEf@DBFGTs@tA_AxBG`@@b@P`A|@tC~C~EN`@?TcDrCuEbDg@t@oAxDKN}@KwAa@{Ce@m@SmB[aLwDkBc@_AE{AP}Bz@_B^oERkDpBeBf@oCfAwDv@aCBg@Ru@n@aBp@aTlFu@FmAGu@SgAo@sAe@uEWo@?_AL_@NwBbBaBdB_@P[KQs@@Sd@uB?k@II_@AgBj@sFhAeA\\w@p@]dASrBMd@S`@[\\WPgDtAsALi@CSFO`@EfAu@hFQJmAEy@Fu@Na@\\Wr@W`@]hAm@dAw@`F[z@mAdBs@t@e@T{@Dm@_@]w@EY@w@IkCo@eCKMeDRs@M{@o@YI[BkAd@oDQmCZmA@uAWcBgAw@a@[o@EW@m@Lc@j@q@zBoAR[Jy@Gy@UcACuAI[OKw@Iw@Ue@_@]k@Ko@N{A@k@Qi@WMm@Hw@C[IMQHsAh@qAbBqBp@sAFg@@kCNwB?_@Qm@}@_BUaAOSs@SiBy@oDeBy@i@oEiEs@aAuByDo@o@uAcAo@YcAQwCFk@Ig@UuCmBQWBWjAsCv@{Cp@oAX[v@g@nDuAdB}@|@s@t@eAxKkZxBwFZk@j@_@pD{AjFuC~@q@`@i@lHwOTo@tAqFXa@\\W`@G`@DnEdBzKtFbg@pX|BbBz@b@dC`Bl@j@n@fAPNbBp@|GvD~A`AR?LGPa@vF{OdA}B|EaM~AaFfWmp@t@}A`FO|Mo@bASvBw@tAQ`AVxGvD~@v@lBn@~AdApGzCbHhEvAl@n@Fn@ItBcAp@Mn@JdDnApBj@bBXbAFdDAtCObAWz@_@zAkAnCaAPOv@eDdKgYpAgEpEwL^y@`A_BVMd@BdFhCRDZEVL"
   }
 ]
