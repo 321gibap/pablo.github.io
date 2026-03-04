@@ -1,5 +1,12 @@
 [
   {
+    "name": "Afternoon Ride",
+    "distance_m": 15581.4,
+    "start_date": "2026-03-03T16:45:12Z",
+    "type": "Ride",
+    "map": "o||wDnmpsQXa@v@^z@t@fB~Bn@j@j@J|ABfAN|BhAvAf@x@l@LRL\\JvAj@lBFd@NXf@ZFNi@tAUfAqBlFAJFLlEHpH^jDAlBTnAGp@TdCPvNn@nEL|@Gv@@fB\\hET|ABdAQj@RnDTl@HNH|@c@d@?tInBjDhAnBf@^Zr@FhBb@lI`C|Bh@PJhAPxC|@jEhAxBb@rEnA`@PpATrBj@lB^~B~@rG`BRADOV}AH}@Re@h@yC^IbANRMDKCXOX`@P@HIH[Qj@J@BCFaA@_@W@OLQd@JDHE^BN`@RFPAD[]DB@LMIOi@]EMNQn@HLHKL?HR_@_@GVJBGBi@i@BCBHJ?LHh@Gc@W]e@Ca@[hBKZK@gC_AU_@OEcAQoEuAmAQgFiA}JqC_Ca@{Bk@sA_@]Yb@eCTw@`A{Ef@}CFSNuAb@iACUBi@Cs@]uAC_@Js@^y@Dq@Ne@@{BGc@IIc@Wg@GSDWR[z@OVOF_@@iAQq@OEGLA\\Pb@?\\LATJZOFMEBOp@xBENDFDMASGAGj@D\\HEDs@GAEb@Ej@BRl@j@dAJ^YLm@P_@VWAMRq@Ba@Ce@BeAAe@hB_A`@g@Xq@^qBIQ[SRwAGAId@c@GFCTLPi@Kf@MICG`@_BQDk@Qo@GYKSFGPBHl@PdANVGIOi@OiAQCNFJpCn@`@uA?SSYq@Ia@a@@MLW`@?PMD]MQQGYLEp@SRY?SWA]Ts@@]Sm@USWAYLSh@ON_BIg@N}@x@QDeBs@eLuCmBo@yAy@_Be@y@Au@S_@UeAyAe@a@sBiAi@G}AXsDxBy@TwC?aDk@_A]}D]oDKaADcAXiDnCg@TuAPkD[cAAeAPqBdAeErDqAb@aBDaC}BWMO?_ElFe@h@[Lo@Ko@WkDiBy@o@wAy@gCeAWCMNQd@eAbDeAlCYfAeAdC{@bCsBrE{@lCqCrH?VLTrE`CAZg@jA?PFN~EnClAb@d@`@tBjARIRc@|BqGRYTD`E~BVJhBJFVAnAc@~MD^MbDGRaADsE_@cAAe@OI@HHb@JzBDpEXRODWDiEXgIH{EGKi@KKNH??DWND?MBMQRIAq@hBsEhAiD?c@_@y@Ki@Ec@@}A{@w@}A_AeBq@_By@cAYiBI{@We@YkBsBo@i@gAg@QBIL"
+  },
+  {
     "name": "Evening Run",
     "distance_m": 1645.6,
     "start_date": "2026-03-02T19:16:56Z",
@@ -61,12 +68,5 @@
     "start_date": "2026-02-07T08:26:55Z",
     "type": "Ride",
     "map": "_~|wD`spsQ{@pD`]hRsA~DNRdo@bCnMzAjRVpAa@~jA~ZZr@W|DpMlDLf@cAtFdGx@iBzIrIzCfEfFEx@jHtC{LxZrGxFeJfOuBxPkK|TuDlNu@lGlA~DMzGgAtGqCvEkEbL}BxA_KzB}AfBq@`DOtMpDnWEfQpA|Rt@bA~\\hSwEjKx@jDgBvBo@vD_C`Hl@hJg@zCcExCiJx@iAr@iA~BuA^aPrd@oBfCu@`Ci|@fl@mGpCaIxAkMAaOiB_CjKgBnMQfR_BpFoKlHqHlH{MdD}EjFRhBf@L@uAFdAYPo@uAm@EoGdFsLnB{FxD}CrHe@`KeArEiKdNeSnm@kJtLuB|FUdH|BpPd@hQtFtVHtKg@vJj@lGdDxGtNbMhErLrCpLrJpPrCxRtDdNxH`_@FvF}@|EmOlVmB~Ek@pEg@zOyBtIc@|Eh@`H|Lnf@NrF}@~P^nHtClNfE|KiNbKuCpEw@lE[zJuFfVaAtIaA`DmDzDiPfJwA|B_AnDAlJoEpAwDlCoSd\\eNdJaChCkB`FcDvTwB|EyLlJsJxIk]zLcGhAqHG}D{@ek@a^wH_CsSuDaO_H_SgR}IiUiF}Es]gKmc@{U_m@yKkHcDyNmK_JwAqOy@gPiJwBqCqIcRuEaH_W_UqB{Ew@sFB{ElDic@Ve^`FyUrCmGbE_Fb\\}RdDuCrDgIn@eI}Au]?cDnAOqAWl@{Lg@mIyB}KoEwIeGuIwA}FNeHxEoRCaK}AaFsIcOaDuJiOukAcJwa@aFwEmlA}f@Um@j@mBBl@sApAay@m\\g{Ao_@ii@}f@_aAu_@_EsCaK}LLkAfByCjYsZ`AmDNmHlDmMjLgMf@oDi@i^fOeEnGDzCoCtAab@mAcBsAsGgBcE^iPvAqFvOsEpAgC|@sG`F{ENeGi@}I?gNj@_CbDgBjA}BEaBsAwABm@l\\sKlCO|P{GiAgEpAiBeAyA}AgGcFcHqDuK}F{HbWsa@nMmYxTkNpLsMrLiKnRuTzFoCbFS|I~@tJkAlPjAdOy@dg@fMjIR~H{@|FD^e@@_El@{BvDWbFaFbFaAFy@dCqAj@Rt@|Dh@XtC}DrAw@fP_BlGyBjRfh@|BnDfk@r\\`XrMfI`HxIxNlBhBh\\|QvDnA`E}L~JgFfByBbPec@jPgJlMyZ`BHlR~Ihd@pVhK~GpAnBhO|Hxm@m~A|Ty@pHeBxf@rWfFsA`LnCbJ@jJuDRLg@bDHbCh@nAhC`AtBqBrDOzAiCpf@_rAxP~HjGoHtCpCdBClCkAJ[mBp@nF_E"
-  },
-  {
-    "name": "Lunch Ride",
-    "distance_m": 29528.2,
-    "start_date": "2026-01-19T11:55:35Z",
-    "type": "Ride",
-    "map": "yagwDnkjtQtDyYgAeBAiCw@iB|@_FoB_BqBNu@p@gAvLcBfCoBpAy@dCmB@k@vA_A\\cL@eDpBk@nBo@HMe@`GsEtB]Bw@y@q@{BrAg@ShEeDvBCvEt@tFaEjBUb@}AQwDt@aCn@uG`CsDjCYpDzAj@jA}AxF@tF`C`CrE|Af@xAB`BkApDUzJcAdDcBZ_@n@_Dk@q@vAi@W`EuXCoB{@cAEoCw@mBr@aF}ByA_BTy@|@cAbL{A`CwBvAw@jCgB?q@tAaA`@_LB}ClBu@rBu@DIs@tF}DfCa@Du@u@e@wBfAy@UxCuAt@sAvB@nEz@~FiEdBSh@wAWyDp@{Bp@}G|BqD`C_@vDxAp@`AuAdG?rF|B~BlExAt@dCgAjF_@lKkA`DeCbAqCm@k@vAi@S|D{YIoA_AyA{@eFr@wEqB}A}AN{@v@gAtL}A`CqBnAy@fCiB?i@rAaAb@gLDgDrBc@dBgAE\\cAlEyCnCi@Cw@s@e@uBlAk@_@fE}CtE~@jBAbGgE`BMh@sAOcEx@kCj@sGvBiD|Bi@lFvCAnAqAxDAvF|B|BnEzAn@~A?hBcAlEWtIeAjDaDfAoCc@OpAw@Q~Dm[gAgBC_Cu@iBt@}EwBeBwCdAiAjL}AfCsBvAw@fCqB@_@lAaAd@mLBcDvBm@hBw@K\\cAvEyChCg@@g@{@o@yBfAq@QpCyAv@qA|B@jEz@~FkEbBOh@}ASyDr@aCl@sGtBiDdCg@xD|Ar@hAuApFAzFlClCbElAn@jB?vAkArEUdJcAxCoCdAgDo@SjAcAv@X`@Um@rEsYEuBiAsA?cCu@eBr@iFsB{AyCbAiAnLgBhCkBhAw@jC}BCc@|A_A\\{KBcDrBo@nBo@EZoAzE}CtB_@y@wAoBnAm@e@rCwAp@kAvB?vEx@xFcEjBYZyASwDp@qBp@}GxBoD~Be@dE`Bl@`AwAvF?`GvB|BzEzAh@bB?`BgA|DSfJmAlDkC`A}Co@c@vA[KtD}XEcBcAqAA_Cu@yBt@qEwBgBaBN_A|@aAdL_BfCqBpAu@hCwBBc@tAy@^oLD}CnBm@nBu@?NiAtA_A~CkBnBUCw@w@g@wBfAo@[vCmAp@mA~E|@jBCfGoE|ASf@mBYwCv@_Cl@cHvBgDvCc@fDpAt@jAuA|FArFzBbCzE~An@hCmAxE[lKq@lCyC|AcDs@_B~B"
   }
 ]
