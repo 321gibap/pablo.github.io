@@ -1,5 +1,12 @@
 [
   {
+    "name": "Afternoon Ride",
+    "distance_m": 9453,
+    "start_date": "2026-04-07T17:46:20Z",
+    "type": "Ride",
+    "map": "u{|wDzopsQP{@DEX@`BjAfAnAZZZR`A\\l@FfAB|@Rn@Vx@d@z@Zb@R^VVVHRR~@F~@d@bCBFLLd@RHP?HUb@Sh@MPGVWn@m@`B[fAYn@ZP^D~AFp@@nCRv@@vBN`A@^DtBJjA@j@C|@RrA?hAPjCHpBLxELRAX@NCF?pADr@F|A@XFb@Bd@JzBH\\Fb@BRF|@D~AEVLdCLz@@lALHHFp@HIZeALSHEd@AfBb@j@Xb@FnFvAdHnBnFtApA`@bDr@`ElAvBh@fATbBf@d@Rr@JjD~@nBh@d@RdAR~Ad@lAVRJX?pBl@b@J~Aj@lDx@NALCHKVqARuAXgA?IQQESGq@?GHKPGR?DNNM@IE?ABAVEAJATNJ@DBDN?RCHIBKIAG?Kb@JHJBN]?KEIU@QBOBCD?ZHHDAl@l@^NBi@q@AQKG_@Ca@KMv@HAt@DCUQ]GW@MDAPFDCGEi@MAE@IX?NDr@l@G@?QIG}A]B?@B?Fe@hDILO?e@M_Bq@k@Ku@WOAq@MIG[CiAWi@Ug@Qg@Ge@KaCs@s@OeBo@wAYkA]gAWSCWGu@CoCaAQIkA[_@O}DiA}A_@cA]kCm@gBk@YQs@OWAa@IaCs@kD}@UISCYKyA[Q?MJ[`BIVKl@IHWBk@Si@Ma@Ga@AMBg@d@[LYG_AGa@@UDa@EMFYCc@H{@CoAY[AUEi@@m@Mg@CUGS?YLc@I[Ai@Kc@Ci@KWBk@MkAJYCa@@SM]As@M[Cc@Dm@GqBIw@AwBM[?kAMcA@u@IkA?WEqAEQGi@?k@QOKUBGBML}COm@?}@KgCI[?c@HMYMO?GDWp@sBd@cAtA_E?QCQGOY_@Kg@EgBG[cAu@i@Qw@i@_Bs@}@k@{@U_@Cq@B]Ag@I_@M]Ue@a@g@q@_AaAu@g@m@UCAG@OTg@hBEDQC"
+  },
+  {
     "name": "Afternoon Run",
     "distance_m": 3615.6,
     "start_date": "2026-04-05T16:18:59Z",
@@ -61,12 +68,5 @@
     "start_date": "2026-03-26T17:50:36Z",
     "type": "Ride",
     "map": "w||wDnmpsQlBLtAjA`AhAl@b@bA\\h@HfALn@P~@`@~@j@zAl@\\RRTFNNr@F|@F^b@nADf@FNVLNNHPER]r@o@zAQl@yArDDFJFlDLp@Cr@LT?z@HjBDnAJpBB|AHh@?PKj@GH@j@TJ@j@Ef@BjBTdAFx@LpBPnBHnAJb@Ab@FRCd@@LAXMLApCVtAFlAJd@BlALbAFj@HT?|@KfALxAHv@@\\DTHBFDTLFFABERy@PMHCX@hBb@h@Th@LjBh@nBb@rAd@hBd@\\JLRJB`AF|A^tEtA|EnAPDLJ`@BTFr@ThCr@jCl@v@Zh@Hv@P~Af@dB^XHd@VlARdAZrCn@j@PXPb@DbAZpAf@T@tCt@J@PEL]d@sBXwBZmAJWTSTLd@JDE?MNG@HOf@AAKAQHCEEO@AJFDEGBS?CAIKl@Z@DA?I?o@WBWDCL@h@RF?GVJ@RLCb@K]MO[Qk@KI?GDINEROLADBFTV\\JL?L_@AIMAWGQ@AJNL`@HBEAEe@AC@@DL@R[DShACHId@w@Lg@NOOLMNIAKOMAw@\\QRQXQPQHoA@SJo@@_@LM?QDW?i@U]Aq@OSKiAOmA]iB[[?}@UgCw@QA[Qe@KwAc@OGgDy@k@MiBk@oBa@{DqAmASg@S_@KkAa@aBY}Ac@iBq@y@M{CaAwCs@i@Kq@SuAYKDGNe@jCGTIJS?_Ba@QEWAM@MHc@d@Q@[Am@@{@ES?gCMO?m@EaAAc@KeB?{AIc@BSEq@W]EQ@g@G]@k@EQEI@KJKCc@Bi@Cc@Eu@[c@CmBIyCCcDImCYqBMU?QBQ?{@Em@IUIMIQCS?KBwB?qAKkEKm@Ma@EIAIQAKBITc@hAmCH]bAmCLc@CMMMKQQk@Ea@?{AGkAMs@[s@OOe@Sc@I{@GsA[YM]k@a@YYEy@Eg@Ms@a@m@i@_@e@w@c@MAKH[j@MHG?GC_@_@u@e@OAIDGL[v@GV_@`@GA"
-  },
-  {
-    "name": "Morning Ride",
-    "distance_m": 8046.7,
-    "start_date": "2026-03-26T10:30:55Z",
-    "type": "Ride",
-    "map": ""
   }
 ]
