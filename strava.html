@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pablo Fierst Garcia | Training Data</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <style>
+    /* ── Page layout ── */
+    .strava-page {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+
+    .strava-page h2 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .strava-page .subtitle {
+      color: #555;
+      margin-bottom: 3rem;
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    .stat-card {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+      text-align: center;
+      transition: transform 0.2s ease;
+    }
+
+    .stat-card:hover {
+      transform: translateY(-3px);
+    }
+
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 0.3rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* ── Chart section ── */
+    .chart-section {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+      padding: 2rem;
+      margin-bottom: 3rem;
+    }
+
+    .chart-section h3 {
+      font-size: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .chart-wrapper {
+      position: relative;
+      height: 280px;
+    }
+
+    /* ── Activity table ── */
+    .table-section {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+      padding: 2rem;
+    }
+
+    .table-section h3 {
+      font-size: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .table-controls {
+      display: flex;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      background: #f1f1f1;
+      border: none;
+      border-radius: 999px;
+      padding: 0.4rem 1rem;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .filter-btn.active, .filter-btn:hover {
+      background: black;
+      color: white;
+    }
+
+    .activity-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    .activity-table th {
+      text-align: left;
+      padding: 0.6rem 0.75rem;
+      border-bottom: 2px solid #eee;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #888;
+    }
+
+    .activity-table td {
+      padding: 0.75rem;
+      border-bottom: 1px solid #f1f1f1;
+      color: #333;
+    }
+
+    .activity-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .activity-table tr:hover td {
+      background: #fafafa;
+    }
+
+    .type-badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      background: #f1f1f1;
+      color: #444;
+    }
+
+    .type-badge.Run    { background: #e8f5e9; color: #2e7d32; }
+    .type-badge.Ride   { background: #e3f2fd; color: #1565c0; }
+    .type-badge.Swim   { background: #e0f7fa; color: #00695c; }
+    .type-badge.Walk   { background: #fff8e1; color: #f57f17; }
+    .type-badge.Hike   { background: #f3e5f5; color: #6a1b9a; }
+    .type-badge.Workout{ background: #fce4ec; color: #880e4f; }
+
+    /* ── Loading / error states ── */
+    .state-msg {
+      text-align: center;
+      padding: 3rem;
+      color: #888;
+    }
+
+    .last-updated {
+      text-align: right;
+      font-size: 0.8rem;
+      color: #aaa;
+      margin-top: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <h1 class="logo">Pablo Fierst Garcia</h1>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="strava.html" class="active">Training</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="strava-page">
+      <h2>Training Data 🏃</h2>
+      <p class="subtitle">My Strava activity — updated nightly via GitHub Actions.</p>
+
+      <!-- Stats bar -->
+      <div class="stats-bar" id="stats-bar">
+        <div class="state-msg">Loading...</div>
+      </div>
+
+      <!-- Weekly mileage chart -->
+      <div class="chart-section">
+        <h3>Weekly Distance (last 16 weeks)</h3>
+        <div class="chart-wrapper">
+          <canvas id="weeklyChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Activity table -->
+      <div class="table-section">
+        <h3>Recent Activities</h3>
+        <div class="table-controls" id="type-filters"></div>
+        <table class="activity-table">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Name</th>
+              <th>Type</th>
+              <th>Distance</th>
+              <th>Time</th>
+              <th>Pace / Speed</th>
+              <th>Elevation</th>
+            </tr>
+          </thead>
+          <tbody id="activity-tbody">
+            <tr><td colspan="7" class="state-msg">Loading activities...</td></tr>
+          </tbody>
+        </table>
+        <p class="last-updated" id="last-updated"></p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Pablo. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // ── Helpers ────────────────────────────────────────────────────────────────
+
+    const metersToMiles = m => (m / 1609.34);
+    const metersToFeet  = m => (m * 3.28084);
+    const secondsToHMS  = s => {
+      const h = Math.floor(s / 3600);
+      const m = Math.floor((s % 3600) / 60);
+      const sec = s % 60;
+      return h > 0
+        ? `${h}:${String(m).padStart(2,'0')}:${String(sec).padStart(2,'0')}`
+        : `${m}:${String(sec).padStart(2,'0')}`;
+    };
+
+    // Pace in min/mile for runs, speed in mph for rides
+    const paceOrSpeed = (activity) => {
+      const miles = metersToMiles(activity.distance_m);
+      const hours = activity.moving_time_s / 3600;
+      if (activity.type === 'Run' || activity.type === 'Walk' || activity.type === 'Hike') {
+        if (miles === 0) return '—';
+        const minPerMile = (activity.moving_time_s / 60) / miles;
+        const min = Math.floor(minPerMile);
+        const sec = Math.round((minPerMile - min) * 60);
+        return `${min}:${String(sec).padStart(2,'0')} /mi`;
+      }
+      if (activity.type === 'Ride') {
+        return hours > 0 ? `${(miles / hours).toFixed(1)} mph` : '—';
+      }
+      return '—';
+    };
+
+    const formatDate = iso => {
+      const d = new Date(iso);
+      return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    };
+
+    // ISO week string e.g. "2024-W04"
+    const isoWeek = iso => {
+      const d = new Date(iso);
+      const jan1 = new Date(d.getFullYear(), 0, 1);
+      const week = Math.ceil(((d - jan1) / 86400000 + jan1.getDay() + 1) / 7);
+      return `${d.getFullYear()}-W${String(week).padStart(2,'0')}`;
+    };
+
+    // ── Render stats bar ───────────────────────────────────────────────────────
+
+    function renderStats(activities) {
+      const totalActivities = activities.length;
+      const totalMiles = activities.reduce((s, a) => s + metersToMiles(a.distance_m), 0);
+      const totalSeconds = activities.reduce((s, a) => s + a.moving_time_s, 0);
+      const totalHours = (totalSeconds / 3600).toFixed(0);
+      const totalElevFt = activities.reduce((s, a) => s + metersToFeet(a.elevation_m), 0);
+
+      const stats = [
+        { value: totalActivities.toLocaleString(), label: 'Total Activities' },
+        { value: totalMiles.toFixed(0) + ' mi', label: 'Total Distance' },
+        { value: totalHours + ' hrs', label: 'Moving Time' },
+        { value: Math.round(totalElevFt / 1000) + 'k ft', label: 'Total Elevation' },
+      ];
+
+      document.getElementById('stats-bar').innerHTML = stats.map(s => `
+        <div class="stat-card">
+          <div class="stat-value">${s.value}</div>
+          <div class="stat-label">${s.label}</div>
+        </div>
+      `).join('');
+    }
+
+    // ── Render weekly chart ────────────────────────────────────────────────────
+
+    function renderChart(activities) {
+      // Build weekly totals for last 16 weeks
+      const weekMap = {};
+      activities.forEach(a => {
+        const w = isoWeek(a.date);
+        weekMap[w] = (weekMap[w] || 0) + metersToMiles(a.distance_m);
+      });
+
+      const sortedWeeks = Object.keys(weekMap).sort().slice(-16);
+      const labels = sortedWeeks.map(w => {
+        // Display as "Jan 6" using the Monday of that week
+        const [year, weekNum] = w.split('-W');
+        const jan1 = new Date(year, 0, 1);
+        const monday = new Date(jan1.getTime() + (parseInt(weekNum) - 1) * 7 * 86400000);
+        return monday.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      });
+      const data = sortedWeeks.map(w => parseFloat(weekMap[w].toFixed(1)));
+
+      new Chart(document.getElementById('weeklyChart'), {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Miles',
+            data,
+            backgroundColor: 'rgba(0,0,0,0.85)',
+            borderRadius: 6,
+            borderSkipped: false,
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: ctx => ` ${ctx.parsed.y} mi`
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { display: false },
+              ticks: { font: { size: 11 }, color: '#888' }
+            },
+            y: {
+              grid: { color: '#f1f1f1' },
+              ticks: {
+                font: { size: 11 },
+                color: '#888',
+                callback: v => v + ' mi'
+              }
+            }
+          }
+        }
+      });
+    }
+
+    // ── Render activity table ──────────────────────────────────────────────────
+
+    let allActivities = [];
+    let activeFilter = 'All';
+
+    function renderTable(activities) {
+      const tbody = document.getElementById('activity-tbody');
+      if (activities.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="7" class="state-msg">No activities found.</td></tr>`;
+        return;
+      }
+
+      tbody.innerHTML = activities.slice(0, 50).map(a => {
+        const miles = metersToMiles(a.distance_m);
+        const distStr = miles >= 0.1 ? miles.toFixed(2) + ' mi' : '—';
+        const elevStr = a.elevation_m > 0 ? Math.round(metersToFeet(a.elevation_m)) + ' ft' : '—';
+        return `
+          <tr>
+            <td>${formatDate(a.date)}</td>
+            <td>${a.name}</td>
+            <td><span class="type-badge ${a.type}">${a.type}</span></td>
+            <td>${distStr}</td>
+            <td>${secondsToHMS(a.moving_time_s)}</td>
+            <td>${paceOrSpeed(a)}</td>
+            <td>${elevStr}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderFilters(activities) {
+      const types = ['All', ...new Set(activities.map(a => a.type))].filter(Boolean);
+      const container = document.getElementById('type-filters');
+      container.innerHTML = types.map(t => `
+        <button class="filter-btn ${t === 'All' ? 'active' : ''}" data-type="${t}">${t}</button>
+      `).join('');
+
+      container.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          activeFilter = btn.dataset.type;
+          container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          const filtered = activeFilter === 'All'
+            ? allActivities
+            : allActivities.filter(a => a.type === activeFilter);
+          renderTable(filtered);
+        });
+      });
+    }
+
+    // ── Boot ───────────────────────────────────────────────────────────────────
+
+    async function init() {
+      try {
+        const res = await fetch('data/summary.json');
+        if (!res.ok) throw new Error('Could not load activity data.');
+        const activities = await res.json();
+
+        // Sort newest first
+        allActivities = activities.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        renderStats(allActivities);
+        renderChart(allActivities);
+        renderFilters(allActivities);
+        renderTable(allActivities);
+
+        const latest = new Date(allActivities[0]?.date);
+        document.getElementById('last-updated').textContent =
+          `Last synced: ${latest.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}`;
+
+      } catch (err) {
+        document.getElementById('stats-bar').innerHTML =
+          `<p class="state-msg">⚠️ ${err.message}</p>`;
+        document.getElementById('activity-tbody').innerHTML =
+          `<tr><td colspan="7" class="state-msg">⚠️ ${err.message}</td></tr>`;
+      }
+    }
+
+    init();
+  </script>
+
+</body>
+</html>
