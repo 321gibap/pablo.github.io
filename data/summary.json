@@ -1,5 +1,25 @@
 [
   {
+    "id": 18764946912,
+    "name": "Zwift - Race: Stage 1: Level Up Racing: Sprinter's Playground",
+    "type": "VirtualRide",
+    "date": "2026-06-02T23:12:28Z",
+    "distance_m": 27258.6,
+    "moving_time_s": 2688,
+    "elevation_m": 144.0,
+    "map_polyline": "fby`Au`fs^AhA{@x@IdC_AjAGx@`@j@bGdBTr@MfDnCrBt@FbDw@`Np@nGjFvHX|GhBtAEfAc@rIeKp@_JXq@pHoA\\uB^UrFZ~@U`@}@x@wGrEw@]cCJ_@zBo@j@^TpBqA^O^v@|FEdCNZpAf@f@]o@yAr@aAWaCb@]^H`@~AfBS^P\\rBcAr@Pv@bDw@?aAyAeAMg@|@}@m@mDD{@dBsAeAgG}HgEcHgN}Fq@}Bw@gCOmCXeBfBi@pBi@hGy@xC`@fBdDdFCrAm@pBm@LeGe@aA{@}FwI}@g@mC@gBfB_@dG[TwBX\\`FSp@eAfADd@xBdCn@lBSzCe@j@eA?sIuCcQSw@[e@iANwDzAoAp@kBbDcC`@uHn@YzFD`@y@FuEp@e@dBC`EVbA~AOzK`BfGElFUxA]Rc@IoCwDLk@v@i@Rk@YeFh@_@`BR_@zKRjAObCa@@_GcE{EgEoAeB}DU{BhAoLUIpAp@NFt@{Br@UW`@g@Be@i@_@Cu@s@S{BJSfFu@n@IfC_AjAAhAfHdCNr@ErDpChB`Eu@rNt@vGlFvGN~F~AzAJlBm@vIaKf@_H`@kBn@_@|Fq@b@sBZ[tFVbAU`@}@v@oGzE_A_@}BH]dCs@ZRRdA?dAwAl@v@bGD~ClAf@h@W@_@m@_Ar@mA[{Bh@W\\Ld@~AfBS\\RZ~AgAfADh@d@L~Bo@R_AaBsAOe@~@}@m@kD@w@jBaBcA}FyHeEqHsNmFe@aCy@iCS{BJmB|As@vBm@rG{@~CPjApDxF?tAu@`CkFKeAY{HqKk@]kCKyBnB]bGsBV[VX`FSr@iAhAJf@rAhAnAtCK|Ck@z@iACoIsCgQQw@[a@oAHkD|AoAp@kBlDwC^mHn@W~FB\\}@LyEx@]~DHjBZn@tAQ~KbBpFE|FYxA_@Ra@MkCeD@m@dA}@Pm@]sDHs@l@WjALRj@e@`GC~BTnAOtBs@GmFuDuHwHkDQcClA_L]_@^@r@|@`@Cp@gAFe@`@_@[d@}@k@u@Eo@iDCQj@?lD{@fAEzB}@hAKl@^t@pGtBLb@KxDrClBbEu@dNn@xGlF~GRpBr@fFv@tBm@vIaKf@gHd@gBfC]bDq@v@kCvCJ"
+  },
+  {
+    "id": 18764724133,
+    "name": "Zwift - Tempus Fugit in Watopia",
+    "type": "VirtualRide",
+    "date": "2026-06-02T23:03:42Z",
+    "distance_m": 2174.8,
+    "moving_time_s": 272,
+    "elevation_m": 5.0,
+    "map_polyline": "by_fAyvbz^KG[_@SMc@KsAQ]MWWWk@y@mCWmAUs@Gi@A[B]h@{BHi@@]A[G[Sc@cAaBQ_@Ec@DWT[^SJAX@bALZALEHIJ[Dm@BoBD_@FOTU\\M`@A^Bl@Jj@PdAf@d@XTVJZEpADNJJLD~@HXPHJBLANM\\m@bAENAND`@FLVVNH^H`@B`@?`AGpBUp@ELEd@_@t@y@Zg@J[@OG_@O[]e@O]Ga@A_@@QN[XSpAu@RWTk@J_A?o@MaAU}@"
+  },
+  {
     "id": 18750392058,
     "name": "Zwift - Tempus Fugit in Watopia",
     "type": "VirtualRide",
