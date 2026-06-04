@@ -1,5 +1,15 @@
 [
   {
+    "id": 18778447726,
+    "name": "Zwift - No Nonsense",
+    "type": "VirtualRide",
+    "date": "2026-06-03T22:07:17Z",
+    "distance_m": 20648.4,
+    "moving_time_s": 2187,
+    "elevation_m": 32.0,
+    "map_polyline": "xx_fAgwbz^y@i@iCe@u@kAoB_It@sE@y@Y_AwAaCA{@t@q@vBLd@OPi@LwDd@e@p@I~AV`CfAf@p@?dBZR|A^Bp@_AlBJr@h@d@pBJ|Ec@pAiAr@iA@u@}@_BKkAXs@|A}@b@m@T{AI}Ak@{B}@uBeBkBsCoBQ_@?w@^}Bj@uAl@c@zCaAz@uALgBUcBc@w@iCcCSi@Tg@fB}ABk@WgAHm@nIeTZyAHuBKcAe@{@gFeBgAw@y@}AQmB^wAhFwKjA_EdAa@|AQvBv@hAIn@a@z@uBf@k@zCGdA]j@e@h@kBEaBaD_F\\eAjAw@~@Ix@b@bFhIpA~@h@E|@s@`AuD`@i@hBZ~@bAJt@EvCb@f@dBr@\\bA]bAyBt@g@~@EbLiAbNIvCh@rAxC~C^fB`@NlBBpA^r@@lLyCx@Bn@b@ZdAVdCd@hLOvCWd@sA`AUdARxFXfBZl@|Ar@lCGlAj@pCVt@XtAdAb@xClA`A`@Eb@e@nCsIj@aAb@QhALvAdA^pCd@LtBGjARh@d@fApB`@P|AArAc@p@u@VwAAw@[m@gAy@eAUsBp@yAxBgFAYYEyAUo@uA_AeAOc@Je@h@{CjJ_@h@a@H_@Mm@w@QoBOc@oBwAmD_@sAo@eCJuAk@q@cBa@uFNmBbBuAVs@Fw@UgK[kE[}Ag@q@y@UcM|C{@AuAa@cCKYaB{CeDk@aBrAkRB{Kf@aAdCaARs@Ku@U[}BkAMu@FsCYq@k@c@sAa@q@Jq@`B_@lBw@t@w@FeA}@wE}HoAo@o@B{@^_AtAJv@rCdE@hBi@|AgBx@{CFg@f@}@vBm@d@iADwBu@}APaA^YZUzAo@fBwFxLGt@Fv@fA`CdAx@|E|Ad@h@RfAG`C[xAqIjTGt@VbAC\\{B~BLv@lChC`@p@TvAIfBWr@g@h@}C~@i@d@k@tAa@fC?l@Rf@|DtCtApBfAfDNzB[bByBzAYj@FrAbAnBGl@e@t@_BrAoE^}AEs@_@Mw@fCaFjBgA|C_@zB_A~@w@ZoABaAQoAyAgE_BqB_DwBWq@R{Bt@{Bl@i@~CaAj@m@Ty@DsBUmAe@s@{BsB]q@Pg@jBaBBg@WuAr@aC"
+  },
+  {
     "id": 18764946912,
     "name": "Zwift - Race: Stage 1: Level Up Racing: Sprinter's Playground",
     "type": "VirtualRide",
