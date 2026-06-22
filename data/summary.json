@@ -1,5 +1,25 @@
 [
   {
+    "id": 19012532327,
+    "name": "Morning Run",
+    "type": "Run",
+    "date": "2026-06-21T10:33:27Z",
+    "distance_m": 4843.2,
+    "moving_time_s": 1505,
+    "elevation_m": 31.0,
+    "map_polyline": "gztwD`slsQ@OlAmFf@mBj@mC`@sA?CCKIEWAg@Wk@OO?_A[Uc@_@UsFuBeBk@]MKK]OcAUm@Sq@YcA]]QoBm@gAe@a@[sAsA}@aAi@s@w@mBqC{H]u@?OYa@[K}DiBqE{BICa@FKCeAk@UEyBiAC?OJmCtDo@dAy@jAADFH?DEZmAt@kBlCBTGN@L`@bAD\\ERGHCJFt@CL]\\k@JUr@@XHb@Tv@^h@Vl@`@f@`@z@FHB@h@Gx@RlAAh@Jv@HVFXRNTNd@TTVRzAp@TBVCj@[`@KNKFIFQBm@DKdAiA^w@v@y@jAcB^]h@[x@o@TKTE`@WzAoAb@g@JAB@LNd@nA`@t@pCxC~@r@jEzAb@R`Bf@b@J~@\\~@XZVRJ`Bl@j@TjC~@PNt@f@\\Rd@NN?HBPDp@V`@HHH@NCV_@rA_BfH]hAm@`CCRUv@ShADFhA`@BABEH["
+  },
+  {
+    "id": 19011737290,
+    "name": "Morning Ride",
+    "type": "Ride",
+    "date": "2026-06-21T08:43:41Z",
+    "distance_m": 30841.5,
+    "moving_time_s": 4022,
+    "elevation_m": 93.0,
+    "map_polyline": "aytwDvolsQfDiNO_@qAg@AUrOuo@g@k@gj@gRS[pHqYcJei@?k@n@iB\\]aDoC{@aEQwBf@iCvCuHl@mDvC}GK_@yBeBa@s@ZyC_AcBKwAo@yB@oBq@eBYsBg@cAYiEeAeC?g@m@uBNiA[{B~@kHEkArAaMP}D^}At@sAHaBMsFq@yEFmB_@iIUk@gAi@Oq@L_AIwByA}@c@g@QuBq@yAcDyD}AAs@o@sDy@}@m@cAF_A_@wAFuBe@q@_AWgBkBc@_AkAiBe@gBDwAU_DeCuEqBkEq@yA{@}Cs@o@\\_ArCg@Xw@@cYwIgJi@Y_@KiAg@g@q@XEvB[l@eE~Bg@LgBMmBr@qAM{CbCeCf@oJm@iAyA{@yD[Y_B?oKoAeDz@}AzAe@LmCc@qBNcIy@}D^s@YyAaBaAUmBTiB|AeACg@[Yo@e@uE}@oBg@wBsAeBBkCyBeCkFyDkIoD[e@a@cBoCu@}BuBaEo@wDoGm@i@{AWqDfAwBCgCwAyBoEe@_@eD[sH_Bu@}@_@iAOgHg@yAwBo@cATaBxAy@C_D}KaKgGK_Ah@cCYmA_^mRk@aARsAhO{P~@AlDlBwDkB{@H}NpPUp@Dz@j@p@t]~Q`@|Ak@fC@b@zFlDpCrBxClKp@JbBwA|@]tBd@p@~ALfHvAnCr@Z~LbBZVfB`E`DlBdB@tDmArATn@l@vDjGjAb@|BRfCzBtCp@R\\@hA\\b@nIlD|ElD~BlCBhCfAzA`BfFl@lFz@~@bAB~BkBvAOtA^`ApAv@b@hE]dHt@rBY`DX~AsAdEgA|KtAlA?^ZhAbEbApA|Ih@pCi@pCgCnALdBq@~APp@OjE_CXq@AcBPYf@K~@^JnAZ`@hJt@vXlIn@An@c@v@mCb@_@xDx@xA`AjEn@`F`CbCpBtGj@rA`A`BXf@n@NvA|@`AtBf@bAMx@^fAIt@j@tDz@t@t@nA?zDlEj@rATnBnBbBHrBIjATz@vAp@ZbMf@~DNrHIv@g@x@g@fBYzE_@tBs@dIB|A_A|G\\lBIvAn@|Cz@jBZfE|@rBPpBb@r@@xCl@`BZlBl@dAS~Cf@~@xBvBcD~Gq@xD}CnI[nBtAdIl@t@tBtA]Ro@~ACb@fHpa@|@~FmH~YdBbA`UtHrRtHmMth@e@lCNf@Kb@"
+  },
+  {
     "id": 18857802503,
     "name": "Morning Run",
     "type": "Run",
