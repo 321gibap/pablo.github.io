@@ -1,5 +1,25 @@
 [
   {
+    "id": 19445361578,
+    "name": "Afternoon Ride",
+    "type": "Ride",
+    "date": "2026-07-24T14:52:46Z",
+    "distance_m": 6154.6,
+    "moving_time_s": 891,
+    "elevation_m": 11.0,
+    "map_polyline": "klfrGm}tc@gAPaBPsG`As@HaC\\YF{@f@WFkAE}@FyObCcCXoCb@_BX{NtBqCf@{NpBoQlCcAJ}Bb@sEj@YHo@TW?UMQWI_@AgAIqDeAqUQmDYaBM_@m@kAkAsA]e@{DiEm@{@sA_By@iAq@u@{EqGaA{Ag@aA_@iAaCiIaAsCQw@MqAKy@YaAWi@]a@a@UeAWMGKGY[Sc@GSUmBWuAyBoHm@iCq@eBm@kBiBsGg@iAOs@OuA[o@O}@MSK_@a@m@m@{AIWMy@}@uC[u@e@uAU{@]iAqAiFQi@e@_AWgAQg@a@kBGa@e@yBDsAKw@_@cAOq@c@uAKOSUCGeBkFCOHOt@g@p@u@`@UZIl@Ff@Pn@^jClANN`ApCjApFCH]p@DbAAJGL?EIE@]"
+  },
+  {
+    "id": 19445045202,
+    "name": "Morning Ride",
+    "type": "Ride",
+    "date": "2026-07-24T08:57:25Z",
+    "distance_m": 60403.1,
+    "moving_time_s": 12193,
+    "elevation_m": 1540.0,
+    "map_polyline": "u~erGe`uc@d`BmVjX_QrEsEtn@ib@PkAkH}TQoFh@wE|BuEpQ}NxGiJnCeJe@s@wTjEoNmR{GjB_ObAmEfB}HeApC@pBs@~FmH~OgFEs@kEzAsAe@dBFhHeGmL~BkC[pBOhEgD@y@gIcEeF}DqBcEcGaGzCdHAnIN~BuCkMeI{Ei@kBC_BfFeNc@l@aGnFcDhAu@~Cr@dDWV}@iEJoEpCkBnFiJ}OvJqAhEHdF_A`CRkCi@{Dz@_JbIgIiKnC}FbL^|IiBiGD_ElCkLxBoEiLoGcDBuCaBLiAhBaATwDqLma@ZhEa@|Qi@nBiFPfBqCVsC{BgUIvFeAnDiHxCsLbKaCzEh@jDaDkBg@cDCyDvAmM_KfMgCbHGhGi@Ks@oILgJdEiX~@yM}A^y@pF_I~Oj@qNkA}Qy@eDlAkEkBy@QmB|@yEgAqBvPwOzB?~A_M`FuFe@cCuAv@q@s@jB_HqBzGp@~@lBe@TtAmElCpDkAXmEpC{EzCkBuEzE_FxDe@eAfBaE?}DwAJwErD{@mAdBuCpCmIsAqJEsFtBaFr@wIlHkQn@aIx@PhCnMx@KPwMfB_N|BeSTyEU{`@sAaHhDgA~AwDzJmI|EcAfCuCm@gRjGsZr@wIoDm[yIuQyAsPvAcFYmEtDyAzBzFbAkHeEmSw@oQaEkTkMqVuNcR}Bm@c@~@N{@uFcA{D^}CpBlAiDiElBgCkC}@aDaDW}EcBqFcDoLoNtQ~GpGt@sDyBoMaQyGyCqDqEeAkD_GeFHk@fD~@qCyCpGXoFoGbEw@rAhAb@~BZOi@oEgD{JwDcBbFj@zJzK{BaJnAzAtBs@`DpCjF`@`DqAzGpBZaFjHfD~BwA~NtMjUJ|EpDbEh@`CpCeFuKfOdNdIhEzEPjDyA~H|@`PlMlDxIi@_@nAjAhIC`JbBvXtVvNnHxIjH_EgQjB`EhKxGzDfGdGhAvHdE|GdInHgAlCjAfCpHo@rF~ByFJyLxFf^@sOTlGfBhIdHxA`A`Bn@pCa@U{@xEwEvEiB|HPpAxChAzCvGhTpQrEbGhA~D?fCaA^}AeJsIaE_L_@_CvAfCvI`N`Gn@dDy@~FZfDdL`NhAxEn@lRdDx^_@~DzDvPb@jIsDbHC~DwD~E}EbEH`BfChDE~JjNl[xB_@pCsGpAYdDhDjFjBfAvF|D`Az@vCXdMpEvHxIrHvEvJxE`FlAzG@jCgW~Mn@xLtFxIxDvBMdCmjBx|A{a@fy@a^|e@_OvIoBxFaCdLqJ~LqObMuAhES~FXfDfFvRw@nCi^hW~KkHQpAw@u@cw@vi@}vA`ScJzBd@lDmAC"
+  },
+  {
     "id": 19367340162,
     "name": "Afternoon Ride",
     "type": "Ride",
