@@ -1,5 +1,25 @@
 [
   {
+    "id": 19732780676,
+    "name": "Evening Ride",
+    "type": "Ride",
+    "date": "2026-08-13T18:47:49Z",
+    "distance_m": 29121.8,
+    "moving_time_s": 3660,
+    "elevation_m": 98.0,
+    "map_polyline": "ub}wDj}psQaJnV_ArCgA`CqGrPOTQKk@VYQQW_@eAg@k@aAo@g@EF}@EO}ChASJa@d@yATuAIaAz@{Aj@g@HsFJkCEqCo@mC_A}Bg@gANkB`Ai@Fg@Cq@UcPiJu@[sBsAmAYmA_AmGuDk@Sq@E}@PeCdAo@NyBN{Pb@mDd@sPbCcKt@m@Vi@`@iDzDo@bAeArCm@|@}@f@eCt@eAD{@Qg@U}BkBm@YmAY_LwDeDw@m@Cc@VKVUzDBv@IrDy@zGiBvHSj@UNwCaAgIaDm{@g[oIgDyGyBkLoE_H_Cc@WAWnBqFpBwGT_@PGn@@r@MXOtBkBVOlBYl@Aj@LbBt@xA`@vHj@j@ZxAzB|@t@xAd@tB?j@LhAf@bCxAj@v@nBvGdApCb@~@d@b@xC~ArAR`AGhCoApAcA~@M^HjBz@jBChAf@p@L~BAlAJvAb@vBhAxEjAhFLl@`@@Zi@`D_@`GWdCc@fDm@hCiAnEIROD{LwEo\\sLmQyGyKyDuSuHaOuF}DoAYQK[jCqH~@yCb@kANWXGp@?z@QpBoBh@YnBWl@?n@LfDzAnIp@d@^bBbC`Ap@jAVbBAdARnC|Az@l@Zf@vB`H|A~Dd@b@xDhBlAN\\ErCuApA_A~@M^DfBz@lBDjBj@tFR~Al@hBdAtEfAn@F~B?z@L`@VBV{@hFY`Gq@pF_BxGY~@MLozAej@aCm@aCeA_QiGUSEY`BgElCsIRM|@Bh@Mp@e@pAsAh@YfD[pE~AlIz@h@`@hBfC~@l@~@TbBBz@Nx@ZrC~Ad@f@tB~G`AlC`@|@VXv@d@pCrApALn@I|BiA~AkAl@M\\@zBz@|ADlCl@~BJhBVdBl@hAn@lEhAp@HrCD`IfBfKnDlBf@fD~BjAZ~AMj@MrAi@r@a@p@cAjAyCd@u@lD_EhAq@dAQfIc@fGcApMgBrGMfLa@dEwAn@Kn@Dl@PjFzChBtA`Bj@xAdAdA^jD`BtI`FfAd@p@Nr@AVIxAy@n@Qj@AtBf@~CdAp@FPUf@iBxFqOfCiGpAkDV}@R]rAmDj@u@NCfAj@rD|@lAJp@G|@Un@[p@q@N?fBr@jDxBdHpDRU^}@~I{VzIqU~@ZdMvGj@NVENKBMCSBAG?ZAVShD{ETOVDpB`C?Zo@t@iDfF_KzWS`@e@d@KDEK"
+  },
+  {
+    "id": 19731998252,
+    "name": "Afternoon Ride",
+    "type": "Ride",
+    "date": "2026-08-12T17:42:05Z",
+    "distance_m": 9145.8,
+    "moving_time_s": 1934,
+    "elevation_m": 66.0,
+    "map_polyline": "u{|wDvnpsQPc@FCRDb@Vv@j@v@x@^d@nAjA~@Nv@BjAJf@NtAt@~Aj@RJ^\\HPR~@NtAVv@Fn@FN|@t@`B|@N`@NRTN|AHtALrADpCNd@JhAJfA@rBLx@GzCR~@B`DPj@?~@FDABB@f@AJ@RV@VDd@Bf@J~ALVFxBP~BBh@F^?|@Kj@Yp@Mv@Fz@OrAJ\\Hp@j@TNZDHJ?bBObAFDRIRA|@NfA^ZPh@HzC|@rAXxBp@pA\\PFL@FH?DB@T?^FhJhCpDz@RDHFt@NvAf@vBj@`Cf@`@TV?RB^NjAXPHj@P`@F`@Nz@P^Td@Bj@L|@VTBtBh@x@ZXR`AVd@F`AXNHlCp@NBJAHAHGLSNk@LSJa@@UPa@P{@LgANi@B[DIBDHMH?Bh@GJAVCA@BDBL@G?EHQLAQr@HHDAP_@DOOCg@@EJEj@DK`@BLF@BERAC?EF@[]UW@e@PEDBFl@\\F@D?FI?GAGEC[IGBADRLJCR_@?OEBQd@@FR?B[Jk@GKIGGUIKKIE?UPEHUr@S~@Ul@GFy@i@SEQA]IEMWQ}@Yk@IEIMMYBIC]@}Ag@KAIC_@?w@G[Ks@Oe@CsA[y@a@u@SQOGCSCQG]GeBe@Q?_ASY?OGYGc@Wc@Qa@Ks@Mk@QcAW[OqA[aBi@kBc@WM[C_@OYCw@SoAa@aASSKwCw@]Mm@G{@UGEqA_@qAY{@YMCOBIJa@xBIj@INKDMAa@Qo@K]MWAs@NEDOXOFqAGu@@}@?MDCAU]QFa@BGFUAOCQBWAc@RYB]GGGIQQGe@Oi@Ge@?aBEu@MQBQHQBO?s@IWGQJ{@?i@OOKqBIy@I[?y@GuBKqBQg@A[Ck@OS@UFKA_@O]@m@GmAESBm@OMDUIi@@SMMAMF]LW@oBOgCIk@E_@A}@KK?QHOAQ[HWFg@d@qAh@qANg@p@kBLk@?Qa@s@Oq@Eo@Bs@CKo@m@u@g@a@]u@a@e@Oe@Uy@k@eA]a@Es@As@I{@UiAw@c@k@i@m@SK_@]s@_@OAQRe@vAOV"
+  },
+  {
     "id": 19704590101,
     "name": "Evening Ride",
     "type": "Ride",
