@@ -1,5 +1,15 @@
 [
   {
+    "id": 19830902296,
+    "name": "Evening Ride",
+    "type": "Ride",
+    "date": "2026-08-20T18:39:54Z",
+    "distance_m": 30610.8,
+    "moving_time_s": 3793,
+    "elevation_m": 76.0,
+    "map_polyline": "oo}wDvxqsQcErJaDzIMPWAo@Tc@]a@mAa@e@iA{@e@AAo@KKgCj@OHg@p@}ANoAIu@r@y@`@gC`@}BBk@H@KgABsAIiAMsGqBq@KoAFiCdA{@?uAi@wPgJuBwAqAe@qA_AeFuCgBm@_AH{CjA{@RsTn@aH|@}KfBsKr@uAn@mD~Du@pAcAnCm@|@y@d@cCr@yBD_Ai@uAmAeAk@mBg@qI{C{FqAc@RMZYpDMvF{@vGuBxIO^KDO?yL}Ecp@gV{l@oTcGqBYQEYh@sAfEoMbA?t@St@g@vAwAh@Y~AU~@?zBz@rBn@lHl@j@\\vAxBfAt@pA\\jBB|@PxDvBXVXn@fBbGnAfD\\n@pEdCbANp@AlCoArAgA^Mp@CzB|@dB@lBj@xFZ|Af@hBdAjEdAfAJhB?|AXHDFTi@xC_@jGo@jGYvAkBtHIL[JsKiEwNmFw}@s\\aCs@qDwAcOkF[QGWlFgPTKdACh@Q~BsBh@[rAObAAr@P|Ax@lBd@vHh@XR`B~BdAt@nA\\nBDp@NbExBVVP^dB`GdBvEf@d@hDdBlATp@?vBcAlBsA~@On@NzAr@nB@zAj@dBLxBD~@NbEhBjDz@`AJpCFz@RRN@^k@vCk@bI_@|C[rBeBlHQZMF_@IsyA{i@mBk@uF{BmMmESQE[Zu@nAwExB{GTIbABZKp@e@tAuAv@_@|AQbA@jFjBbHj@h@VvArBz@r@tAd@zAHdBZpCvAp@d@Zf@tB`HfBlE\\XpDdBnAPp@G|BiAxAkA~@Mb@HjBx@hB?|Bl@pDJnARlAb@tAx@vElAz@JtB@fAPRNBJe@zC_@xGc@fEcChLK`@[N_@CuEoBmSwHgk@wSIK@OjEiIVKXB`A`@b@j@Ht@t@s@hCeFn@c@vAlD|@p@pCvAnAJf@EjCqArAcAx@Od@H`Br@vBFlBp@nFPnA^bCnApD|@z@LhB?z@HnH`BnNrErCnBdAj@XDnBQpBs@v@e@p@cAfAkCj@aAtDcEx@i@nAUdIa@bRqChCW~So@z@QxCmAx@Ix@RtGlDx@l@hBt@pBpAxRpKn@Lr@ChB_AhAOpCf@nElA`@Wb@eBnA_Dj@gBdFcN|BsFbAwC`B}CJC`Bt@~Af@|BXzAU|Ao@`@_@REfD~AfBjAdHrD\\YxFoPp@yApA}DBQMI"
+  },
+  {
     "id": 19779060712,
     "name": "Morning Ride",
     "type": "Ride",
