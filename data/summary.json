@@ -1,5 +1,15 @@
 [
   {
+    "id": 19868011149,
+    "name": "Zwift - Endurance Quad Block",
+    "type": "VirtualRide",
+    "date": "2026-08-23T10:44:07Z",
+    "distance_m": 64558.6,
+    "moving_time_s": 6716,
+    "elevation_m": 99.0,
+    "map_polyline": "nw_fAkxbz^eDu@uAmDcAyEv@eGsB_GnEo@^}EzAw@|EzAp@dDrBh@{@lDx@jAfIUfCoCeAeF~CeDF{DuJ_PlAsEdG}DIkEaEiF~BiCKuCvJ{Zw@_CqHaDcAoEnI}S|IG`DiElGoA^iE_DaFhBwBpBNxHnKfEsGnDtAHvEbDfDaEtDqAh`@tFtIhGh@tOeBpApRqCvHfApK~NfChEfHrHwMvCvA\\nCfFZpChDtFeC?wBwBcBaGfDoECcAeD}CoAgHtMsEiHkNyBoAuIpCgHsAgUgBy@}L|CaGi@oF_JxAw_@~DyDiDmDCoEyD}A{AvEqBz@iHiKeCSiBrB`DtF_@`EsGlAqCbEgJFmIzSbA~EjH~Cx@xBwJzZNpC_CfCbE`G@zDaGvDqAbFzGbIdB`IoDbFlAlEuA`CsKp@nBcHxKuDjAoCoBqIqGmHjA}EfG}DAaEgEuF`CkCMwCtJqZ}@iCiH}CaA}EvI{SrIBvCaEvGsA`@iEaDeFpB{BtB^lHdKpE{GbDpAHxEfDdDaEvDwAd`@`GdJpFf@pL{ClBf@vArRoCzHjA~KnNzBtEjHfHuMzCnAh@zCjFXfCbDvFeCEyByBaBsFdDqE?qAkD_DgAwGrMwEiHuN_CgAiKrC_IyA}RoBo@aM|CqFk@oF}IvAu_@`EyDeDiDGwEqDcBiE|GoHgKwBa@}BzB`DvF_@|DuGpAkC~DaJBwI|SbAbFrHdDp@nBwJ`[LtC_ChC`EjFFlEcGpDqA~ExGdIfBjIkDpEfAxEqA`C}Kd@vByGvKqDlAmCmBuIsGkHjA{EjGkEEwDcE}FzB}BKwCvJyZu@cCsH_D_AeFpIoS|ICpC_EpGmAf@kEaDeFrBaCpB`@pHfKjE{GfDrAL~E`D`D_ErDwAb`@zF`JzFh@zOqBvAjRqCfInA|KnNxBnEjHvHuMtCxAd@rC|EPjCfDrF_BLmCsBkBeG`DyEC}@cDyCqAgHvMuEgHuNaCgAuKrCiHuAeSiBu@eM`DwFm@kFmIrAi`@`EyDiDmDIyEmDsAiExGmHeKsBc@aCzB~CrF[`E{GtAiCzDgJJqI~SdAxEdJpGwJd[JvC}BjC`EjFDhEcGtDmAbFzGdIbBfIkDnEfA`FmArBeLb@bC{GhKeDrAsCeBcIyGcIjAyEhGgEGwDeEoF`CoCQkCxJg[o@uBsHaDgA}ElIuSfJIhC{D|GwAb@_EeDoFtB}BrB`@rHdKlE{GfD`BBnEfD~CcEbEuAx_@rF~IlGj@pOqBvAnSqCdHhAtKlN|B`FnH`HwM~CrAb@vCfFVdCdDpFaBLsCqBeBaG~C_F?y@aD}CsAqHrMmEgH}MmB}AyIrCeHaAiTkBcBmHfB"
+  },
+  {
     "id": 19854075977,
     "name": "Morning Ride",
     "type": "Ride",
