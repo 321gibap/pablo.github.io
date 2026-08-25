@@ -1,5 +1,15 @@
 [
   {
+    "id": 19886134785,
+    "name": "Evening Ride",
+    "type": "Ride",
+    "date": "2026-08-24T20:18:05Z",
+    "distance_m": 9656.1,
+    "moving_time_s": 1800,
+    "elevation_m": 0,
+    "map_polyline": ""
+  },
+  {
     "id": 19868011149,
     "name": "Zwift - Endurance Quad Block",
     "type": "VirtualRide",
