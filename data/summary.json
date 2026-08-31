@@ -1,5 +1,25 @@
 [
   {
+    "id": 19966573955,
+    "name": "Lunch Ride",
+    "type": "Ride",
+    "date": "2026-08-30T11:49:21Z",
+    "distance_m": 4048.3,
+    "moving_time_s": 821,
+    "elevation_m": 26.0,
+    "map_polyline": "cwvwD~qrsQOa@yBS_A]MAS??CMAWMmEeAkBi@I?_AW_AMe@UmAY{@]m@MoA_@g@I{@U[Cu@Wm@IcAWaAa@o@M]QaBa@eBe@y@YmEgA_A_@sDy@y@YuEoA{A[w@KQBMNGVCb@Md@Gf@GLIFK@]Ea@O]Kk@GY?QHe@`@GBQ@}@GQE}@IQGq@Is@Qa@Ag@FUHm@Ac@@UE[?g@GYQ_@AWGW?]GM@YEO@OFm@G]LyA@g@FEBcAFODe@Ea@?KEkACaCYWAeAOk@ASIcBM[?q@Ie@@y@O}AMSGi@]YKI?kARkCB{ESw@AiAKo@KKIEU@KnAgDt@qC^aAAUYq@U}@CY?s@E[EKaA}@WM]Y]MWUqAg@gBaAk@Ia@C[@m@E{@WQKs@m@mAsAcAu@s@a@GBOTQ`@AN"
+  },
+  {
+    "id": 19965797163,
+    "name": "Morning Ride",
+    "type": "Ride",
+    "date": "2026-08-30T09:46:21Z",
+    "distance_m": 4700.4,
+    "moving_time_s": 854,
+    "elevation_m": 17.0,
+    "map_polyline": "w~|wDjypsQlDtB`@RtAx@tCzA`Ab@f@Nd@Tp@T\\d@h@\\r@d@|C|ADJJDZC`@IxAm@z@Ab@EnAFdAJrABhCLjAHjANfCDr@CXKnBRl@AXB\\Eb@FX@fBVzBHXD@JAJArABBFBZ@\\E~BCh@Fj@?rAKl@?j@CXETAV@d@Zh@HfADd@EVEf@AbBDx@HhABLDT@XT@RIl@@`@Cx@BHPJdARd@LVDv@XJ@dBb@v@XpBd@r@VbCp@JHDNHBHBp@@\\FxGlB|Bl@jAVZDd@RRB|@X|@RjFtAt@Zn@HdB`@h@TjCp@f@RhAR`Cr@p@LpAPh@PLLLDVFvAj@FJHFp@JvA`@VAJGLUHUPy@Hm@Vu@RqAHw@DUDIPCx@PH?FCHGZCACIV]ROc@@Ao@FWCDfARHB?@CF?C@QEC?EJFIHe@@A\\HL?@H?LBAHPA@Kj@?OVWHQ_@e@EA[\\CRDZTFH@BMa@SEFDBF@NGHK@MYGGGCFT?@UHAFE@DHE`@BTL@DN?v@LHC"
+  },
+  {
     "id": 19951600097,
     "name": "Morning Ride",
     "type": "Ride",
