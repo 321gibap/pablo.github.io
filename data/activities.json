@@ -6,6 +6,75 @@
       "id_str": "42486420",
       "resource_state": 1
     },
+    "name": "Afternoon Ride",
+    "distance": 9036.5,
+    "moving_time": 1961,
+    "elapsed_time": 6527,
+    "total_elevation_gain": 23.0,
+    "type": "Ride",
+    "sport_type": "Ride",
+    "workout_type": null,
+    "device_name": "Wahoo ELEMNT ROAM",
+    "id": 20275079156,
+    "id_str": "20275079156",
+    "start_date": "2026-09-21T22:42:36Z",
+    "start_date_local": "2026-09-21T17:42:36Z",
+    "timezone": "(GMT-06:00) America/Chicago",
+    "utc_offset": -18000.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": null,
+    "achievement_count": 1,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+      "id": "a20275079156",
+      "summary_polyline": "s||wDtppsQLEDELe@Rc@HCF@p@Zr@j@xA~AXTr@d@\\Jv@Fv@BbAPr@Xp@`@zAj@XNd@^PXPxBNn@Rh@@JCX@DRPf@Rd@^l@Xp@`@ARFJVP^LtCThA?l@DZ?p@@rANzBD`@DdCJr@An@Hl@@^Gb@CTJ~@Rz@@t@Hh@@TE\\?DBBH?t@DPCVBEFAvAJn@Ht@?FBNTHGd@CTEfB@TFDEEGh@AbBJjC@b@F~@@lAPrALR?f@IlBmAN?hAn@pAn@tBp@|An@bEhA`ATf@PT@r@XtBl@~Cx@dD~@~@PlAd@LB`@BvA^rAd@bALf@Pf@JTPNFXARBJDJNVJnAVTHp@NpA`@TBdARzCz@r@Lh@N\\PRABNb@RnAZl@ZhATd@NtAXP?JCLMFI\\mBJ_@JMDA~@\\L?GEWAOBIF@HFBKTO@\\@DDAFM?KBGAIQ@IN@ZN@DCRONEO?a@FGF?XDA?AFCR@LZP@BBKSHGEJQKIIQEEYKI@EFI^?VND^FL?BCBOGWQKSGMJ\\XDE?EGOQISBBHHFF?@BBJNFNELOCIBC_@g@COEGKOMEEAEBOXGX@MFZ_@nAKLGB]@y@]y@MCGBQWMSC_@Ms@Go@UaAOq@So@Mg@W}@Ka@Oa@K_BYs@W_@I_@MQAYK{A_@{Ag@o@Me@CcBk@qA]i@IgAk@K?OIs@Os@Wi@Ia@O_@GWOUCm@SqCm@u@UWOeGwA}@[eCs@uCi@Y?MJ_@~AI|@MLMDE@a@GOGQMoAMSBMJOTSHyBE_@GU?UEUBSJW?_@OWGa@?]@OIQAWDUCu@@g@Ia@@_@IgACYEe@EEEuAGc@Ii@E_@Hc@RW@MBc@S]Ce@BOAg@I[CqAUiAMm@Ae@GoEW]B}AAw@FQAmCSU?iAOeACMEu@?UEoAGi@GmAEYGQ@]GCEo@GOKAE?Od@_Av@uBf@kB\\{@Jk@AO_@_AOmA?gAGYYQg@e@YGuA_AMG_@I[Mu@g@_@Oq@SUAa@@_@KW@a@E_AY[Uq@{@_Ay@[Qu@i@MGE?",
+      "resource_state": 2
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": null,
+    "start_latlng": [
+      30.29978,
+      -97.738503
+    ],
+    "end_latlng": [
+      30.299437,
+      -97.738022
+    ],
+    "average_speed": 4.608,
+    "max_speed": 11.62,
+    "average_temp": 25,
+    "average_watts": 60.3,
+    "device_watts": false,
+    "kilojoules": 118.2,
+    "has_heartrate": false,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": false,
+    "elev_high": 168.2,
+    "elev_low": 131.8,
+    "upload_id": 21428443872,
+    "upload_id_str": "21428443872",
+    "external_id": "2026-09-21-224236-ELEMNT ROAM 8965-343-0.fit",
+    "from_accepted_tag": false,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false
+  },
+  {
+    "resource_state": 2,
+    "athlete": {
+      "id": 42486420,
+      "id_str": "42486420",
+      "resource_state": 1
+    },
     "name": "Morning Ride",
     "distance": 63985.7,
     "moving_time": 6037,
@@ -100,7 +169,7 @@
     "location_state": null,
     "location_country": null,
     "achievement_count": 0,
-    "kudos_count": 2,
+    "kudos_count": 3,
     "comment_count": 0,
     "athlete_count": 1,
     "photo_count": 0,
@@ -68045,7 +68114,7 @@
     "achievement_count": 0,
     "kudos_count": 4,
     "comment_count": 0,
-    "athlete_count": 6,
+    "athlete_count": 1,
     "photo_count": 0,
     "map": {
       "id": "a6877732444",
@@ -81838,7 +81907,7 @@
     "achievement_count": 0,
     "kudos_count": 5,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 16,
     "photo_count": 0,
     "map": {
       "id": "a5995912508",
@@ -88793,7 +88862,7 @@
     "achievement_count": 0,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 5,
+    "athlete_count": 1,
     "photo_count": 0,
     "map": {
       "id": "a5110253763",
@@ -90743,7 +90812,7 @@
     "achievement_count": 1,
     "kudos_count": 9,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 58,
     "photo_count": 0,
     "map": {
       "id": "a4931692958",
@@ -90815,7 +90884,7 @@
     "achievement_count": 0,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 8,
     "photo_count": 0,
     "map": {
       "id": "a4931603301",
@@ -90888,7 +90957,7 @@
     "achievement_count": 0,
     "kudos_count": 10,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4925073122",
@@ -90955,7 +91024,7 @@
     "achievement_count": 0,
     "kudos_count": 6,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 4,
     "photo_count": 0,
     "map": {
       "id": "a4923719679",
@@ -91024,7 +91093,7 @@
     "achievement_count": 0,
     "kudos_count": 3,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 35,
     "photo_count": 0,
     "map": {
       "id": "a4923444806",
@@ -91159,7 +91228,7 @@
     "achievement_count": 27,
     "kudos_count": 15,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4909641451",
@@ -91230,7 +91299,7 @@
     "achievement_count": 22,
     "kudos_count": 15,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 15,
     "photo_count": 0,
     "map": {
       "id": "a4902204568",
@@ -91369,7 +91438,7 @@
     "achievement_count": 35,
     "kudos_count": 8,
     "comment_count": 1,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4891581056",
@@ -91508,7 +91577,7 @@
     "achievement_count": 5,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 6,
     "photo_count": 0,
     "map": {
       "id": "a4867958003",
@@ -91581,7 +91650,7 @@
     "achievement_count": 41,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 10,
     "photo_count": 0,
     "map": {
       "id": "a4861731991",
@@ -91936,7 +92005,7 @@
     "achievement_count": 13,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 3,
     "photo_count": 0,
     "map": {
       "id": "a4826861027",
@@ -92003,7 +92072,7 @@
     "achievement_count": 0,
     "kudos_count": 1,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4819680049",
@@ -92072,7 +92141,7 @@
     "achievement_count": 0,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 18,
     "photo_count": 0,
     "map": {
       "id": "a4809759749",
@@ -92141,7 +92210,7 @@
     "achievement_count": 1,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 19,
     "photo_count": 0,
     "map": {
       "id": "a4804119677",
@@ -92213,7 +92282,7 @@
     "achievement_count": 0,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 78,
     "photo_count": 0,
     "map": {
       "id": "a4751147953",
@@ -92282,7 +92351,7 @@
     "achievement_count": 3,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 43,
     "photo_count": 0,
     "map": {
       "id": "a4735866509",
@@ -92351,7 +92420,7 @@
     "achievement_count": 0,
     "kudos_count": 2,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 23,
     "photo_count": 0,
     "map": {
       "id": "a4735582739",
@@ -92420,7 +92489,7 @@
     "achievement_count": 0,
     "kudos_count": 0,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 31,
     "photo_count": 0,
     "map": {
       "id": "a4729633054",
@@ -92489,7 +92558,7 @@
     "achievement_count": 0,
     "kudos_count": 1,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 10,
     "photo_count": 0,
     "map": {
       "id": "a4729383147",
@@ -92558,7 +92627,7 @@
     "achievement_count": 6,
     "kudos_count": 14,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 78,
     "photo_count": 0,
     "map": {
       "id": "a4722459139",
@@ -92627,7 +92696,7 @@
     "achievement_count": 0,
     "kudos_count": 6,
     "comment_count": 1,
-    "athlete_count": 1,
+    "athlete_count": 7,
     "photo_count": 0,
     "map": {
       "id": "a4697428734",
@@ -92696,7 +92765,7 @@
     "achievement_count": 0,
     "kudos_count": 2,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 21,
     "photo_count": 0,
     "map": {
       "id": "a4697138202",
@@ -92765,7 +92834,7 @@
     "achievement_count": 0,
     "kudos_count": 6,
     "comment_count": 1,
-    "athlete_count": 1,
+    "athlete_count": 48,
     "photo_count": 0,
     "map": {
       "id": "a4691551505",
@@ -93097,7 +93166,7 @@
     "achievement_count": 60,
     "kudos_count": 7,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 56,
     "photo_count": 0,
     "map": {
       "id": "a4658740633",
@@ -93295,7 +93364,7 @@
     "achievement_count": 57,
     "kudos_count": 5,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 18,
     "photo_count": 0,
     "map": {
       "id": "a4653994044",
@@ -93494,7 +93563,7 @@
     "achievement_count": 5,
     "kudos_count": 16,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4625706460",
@@ -93563,7 +93632,7 @@
     "achievement_count": 20,
     "kudos_count": 27,
     "comment_count": 3,
-    "athlete_count": 1,
+    "athlete_count": 3,
     "photo_count": 0,
     "map": {
       "id": "a4621005034",
@@ -93635,7 +93704,7 @@
     "achievement_count": 9,
     "kudos_count": 16,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4616561340",
@@ -93779,7 +93848,7 @@
     "achievement_count": 11,
     "kudos_count": 17,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4599973327",
@@ -93851,7 +93920,7 @@
     "achievement_count": 4,
     "kudos_count": 13,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4588643025",
@@ -93985,7 +94054,7 @@
     "achievement_count": 55,
     "kudos_count": 25,
     "comment_count": 1,
-    "athlete_count": 1,
+    "athlete_count": 19,
     "photo_count": 0,
     "map": {
       "id": "a4577001331",
@@ -94060,7 +94129,7 @@
     "achievement_count": 16,
     "kudos_count": 18,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 8,
     "photo_count": 0,
     "map": {
       "id": "a4571318728",
@@ -94135,7 +94204,7 @@
     "achievement_count": 9,
     "kudos_count": 19,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 17,
     "photo_count": 0,
     "map": {
       "id": "a4565481461",
@@ -94210,7 +94279,7 @@
     "achievement_count": 97,
     "kudos_count": 33,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 13,
     "photo_count": 0,
     "map": {
       "id": "a4562001620",
@@ -94285,7 +94354,7 @@
     "achievement_count": 17,
     "kudos_count": 15,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 5,
     "photo_count": 0,
     "map": {
       "id": "a4554972276",
@@ -94360,7 +94429,7 @@
     "achievement_count": 56,
     "kudos_count": 25,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 39,
     "photo_count": 0,
     "map": {
       "id": "a4554972660",
@@ -94435,7 +94504,7 @@
     "achievement_count": 11,
     "kudos_count": 3,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 5,
     "photo_count": 0,
     "map": {
       "id": "a4561991504",
@@ -94510,7 +94579,7 @@
     "achievement_count": 80,
     "kudos_count": 33,
     "comment_count": 2,
-    "athlete_count": 1,
+    "athlete_count": 20,
     "photo_count": 0,
     "map": {
       "id": "a4545187790",
@@ -94585,7 +94654,7 @@
     "achievement_count": 35,
     "kudos_count": 18,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 4,
     "photo_count": 0,
     "map": {
       "id": "a4534905906",
@@ -94660,7 +94729,7 @@
     "achievement_count": 18,
     "kudos_count": 21,
     "comment_count": 1,
-    "athlete_count": 1,
+    "athlete_count": 19,
     "photo_count": 0,
     "map": {
       "id": "a4534078282",
@@ -94735,7 +94804,7 @@
     "achievement_count": 41,
     "kudos_count": 16,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 6,
     "photo_count": 0,
     "map": {
       "id": "a4534078659",
@@ -94810,7 +94879,7 @@
     "achievement_count": 21,
     "kudos_count": 9,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 4,
     "photo_count": 0,
     "map": {
       "id": "a4534093705",
@@ -94885,7 +94954,7 @@
     "achievement_count": 0,
     "kudos_count": 16,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4505267383",
@@ -95231,7 +95300,7 @@
     "achievement_count": 45,
     "kudos_count": 23,
     "comment_count": 2,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4469189631",
@@ -95306,7 +95375,7 @@
     "achievement_count": 12,
     "kudos_count": 12,
     "comment_count": 1,
-    "athlete_count": 1,
+    "athlete_count": 5,
     "photo_count": 0,
     "map": {
       "id": "a4464009558",
@@ -95456,7 +95525,7 @@
     "achievement_count": 36,
     "kudos_count": 20,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4456038995",
@@ -95531,7 +95600,7 @@
     "achievement_count": 32,
     "kudos_count": 15,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4451593546",
@@ -95671,7 +95740,7 @@
     "achievement_count": 1,
     "kudos_count": 14,
     "comment_count": 0,
-    "athlete_count": 1,
+    "athlete_count": 2,
     "photo_count": 0,
     "map": {
       "id": "a4425627243",
