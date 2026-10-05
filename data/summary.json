@@ -1,5 +1,15 @@
 [
   {
+    "id": 20454984691,
+    "name": "Week",
+    "type": "Ride",
+    "date": "2026-10-04T15:53:05Z",
+    "distance_m": 128748.0,
+    "moving_time_s": 18000,
+    "elevation_m": 0,
+    "map_polyline": ""
+  },
+  {
     "id": 20275079156,
     "name": "Afternoon Ride",
     "type": "Ride",
